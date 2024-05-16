@@ -1,3 +1,5 @@
+"""`prompt.py`"""
+
 from langchain_core.messages import BaseMessage
 from langchain.output_parsers import PydanticOutputParser
 from langchain.prompts.chat import ChatPromptTemplate, HumanMessagePromptTemplate
@@ -13,13 +15,16 @@ In particular, please provide the following information:
 {format_instructions}
 
 Make sure to provide a valid and well-formatted JSON adhering to the given schema.
+
+Content:
+{content}
+
 """
 
 def create_prompt(
         base_prompt: str,
         output_format: PydanticOutputParser,
-        ingredients: str,
-        steps: str | None = None
+        content: str,
 )->list[BaseMessage]:
     """Create a prompt for the model."""
 
@@ -29,8 +34,7 @@ def create_prompt(
 
 
     chat_prompt = chat_prompt_template.format_prompt(
-        ingredients=ingredients, 
-        steps=steps, 
+        content=content, 
         format_instructions=format_instructions,
         )
     
