@@ -46,31 +46,6 @@ class Relation(BaseModel):
 "'has_role' Describes the role or roles an actor or organization can have, such as SCHOLAR, DEALER, COLLECTOR, LOOTER, or OFFICER.' "
     ]),
 
-class Pattern(BaseModel):
-    """Pattern schema"""
-    head: str = Field(
-        description=("Specifies the entity type that constitutes the subject or starting point of the relationship pattern. "
-                     "Examples include 'actor', 'organization', or 'artefact'. Each pattern begins with this entity."),
-        examples=["actor", "organization", "artefact", "auction_house", "government_agency"]
-    )
-    relation: str = Field(
-        description=("Defines the type of relationship that connects the head entity to the tail entity. "
-                     "This field identifies the interaction or connection between entities, such as 'works_with', "
-                     "'has_immediate_family_member', or 'owns'."),
-        examples=["works_with", "has_immediate_family_member", "is_the_owner_of", "has_possession_of", "comes_from", "sells", "purchases", "buys_from", "legal_status_change", "has_role"]
-    )
-    tail: str = Field(
-        description=("Specifies the entity type that constitutes the object or endpoint of the relationship pattern. "
-                     "Examples include entities such as 'actor', 'business', 'artefact', or 'role'. This completes the "
-                     "relationship pattern by defining what or who the head entity is connected to."),
-        examples=["actor", "business", "artefact", "culture_group", "auction_house", "role"]
-    )
-    description: str = Field(
-        description=("A detailed explanation of the specific pattern of relationships between entities. This field elaborates on "
-                     "how the head and tail entities are connected through the defined relationship, providing context and examples "
-                     "to illustrate typical scenarios in the cultural heritage domain."),
-    )
-
 class CulturalHeritageSchema(BaseModel):
     """Cultural Heritage Schema"""
     entities: List[Entity] = Field(
