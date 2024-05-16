@@ -47,16 +47,15 @@ class Relation(BaseModel):
     ]),
 
 
+class Triplet(BaseModel):
+    """Triplet schema to represent entity-relation-entity structure in natural subject-verb-object order"""
+    entity1: Entity = Field(description="The first entity in the triplet.")
+    relation: Relation = Field(description="The relation connecting the first and second entities.")
+    entity2: Entity = Field(description="The second entity in the triplet.")
+
 class CulturalHeritageSchema(BaseModel):
     """Cultural Heritage Schema"""
-    entities: List[Entity] = Field(
-        description=("An extensive list of all entities relevant to the cultural heritage domain. "
-                     "Each entity type is characterized by its unique role or representation within the domain, "
-                     "from actors like individuals and organizations to artefacts, collections, and more."),
+    triplets: List[Triplet] = Field(
+        description=("A list of triplets, where each triplet consists of two entities and the relation between them. "
+                     "Triplets capture the structured relationships within the cultural heritage domain."),
     )
-    relations: List[Relation] = Field(
-        description=("An exhaustive list of all possible relations that can exist amongst the different entities. "
-                     "Relations define the various ways in which entities within the cultural heritage domain can interact "
-                     "or be connected to one another, such as ownership, collaboration, or provenance."),
-    )
-   
