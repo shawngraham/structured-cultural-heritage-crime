@@ -10,26 +10,6 @@ In particular, please provide the following information:
 - A list of relations that define how these entities interact with one another.
 - A set of patterns that describe specific relational configurations between these entities, providing detailed contextual explanations.
 
-Entities should be formatted as follows:
-    {
-        "name": "string",
-        "description": "string"
-    }
-
-Relations should be formatted as follows:
-    {
-        "name": "string",
-        "description": "string"
-    }
-
-Patterns should be formatted as follows:
-    {
-        "head": "string",
-        "relation": "string",
-        "tail": "string",
-        "description": "string"
-    }
-
 {format_instructions}
 
 Make sure to provide a valid and well-formatted JSON adhering to the given schema.
