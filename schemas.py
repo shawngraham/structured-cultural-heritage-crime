@@ -47,11 +47,13 @@ class Relation(BaseModel):
     ]),
 
 
-class Triplet(BaseModel):
+lass Triplet(BaseModel):
     """Triplet schema to represent entity-relation-entity structure in natural subject-verb-object order"""
     entity1: Entity = Field(description="The first entity in the triplet.")
-    relation: Relation = Field(description="The relation connecting the first and second entities.")
+    relation: Relation = Field(description="Defines the type of relationship that connects the head entity to the tail entity. "
+                      "This field identifies the interaction or connection between entities, such as works_with, has_immediate_family_member, is_the_owner_of, has_possession_of, comes_from, sells, purchases, buys_from, legal_status_change, has_role")
     entity2: Entity = Field(description="The second entity in the triplet.")
+
 
 class CulturalHeritageSchema(BaseModel):
     """Cultural Heritage Schema"""
