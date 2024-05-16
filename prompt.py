@@ -1,8 +1,6 @@
-"""`prompt.py`"""
 from langchain_core.messages import BaseMessage
 from langchain.output_parsers import PydanticOutputParser
 from langchain.prompts.chat import ChatPromptTemplate, HumanMessagePromptTemplate
-from schema import CulturalHeritageSchema, Entity, Relation, Pattern
 
 DEFAULT_BASE_PROMPT = """
 Extract information regarding cultural heritage crime from the following text. 
@@ -40,17 +38,20 @@ Make sure to provide a valid and well-formatted JSON adhering to the given schem
 def create_prompt(
         base_prompt: str,
         output_format: PydanticOutputParser,
-        text: str
-) -> list[BaseMessage]:
+        ingredients: str,
+        steps: str | None = None
+)->list[BaseMessage]:
     """Create a prompt for the model."""
 
     prompt_template = HumanMessagePromptTemplate.from_template(template=base_prompt)
     chat_prompt_template = ChatPromptTemplate.from_messages(messages=[prompt_template])
     format_instructions = output_format.get_format_instructions()
 
+
     chat_prompt = chat_prompt_template.format_prompt(
-        text=text,
+        ingredients=ingredients, 
+        steps=steps, 
         format_instructions=format_instructions,
-    )
+        )
     
     return chat_prompt.to_messages()
