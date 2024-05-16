@@ -1,5 +1,5 @@
 **SG**
-I modified this to use the schema developed from the other experiment. Modified this to call openai instead of mistral. Upload case studies where one txt file = one case study.
+I modified this to use the schema developed from the other experiment. Modified this to call openai instead of mistral. Upload case studies where one txt file = one case study. You need an openai key. Haven't tested it with other models; see langchain for possibilities.
 
 
 # Original README:
