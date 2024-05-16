@@ -1,3 +1,9 @@
+**SG**
+I modified this to use the schema developed from the other experiment. Modified this to call openai instead of mistral. Upload case studies where one txt file = one case study.
+
+
+# Original README:
+
 # The rising use case of LLM: Structuring unstructured data
 
 This repo contains the code for the blog post ["The rising use case of LLM: Structuring unstructured data"](https://towardsdatascience.com/the-lesser-known-rising-application-of-llms-775834116477). 
