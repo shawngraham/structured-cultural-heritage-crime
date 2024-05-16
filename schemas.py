@@ -1,8 +1,24 @@
-
 """`cultural_heritage` schema module"""
 
 from pydantic import BaseModel, Field
 from typing import List
+from enum import Enum
+
+# Enum for Relation Types
+class RelationType(str, Enum):
+    is_the_owner_of = 'is_the_owner_of'
+    works_with = 'works_with'
+    works_for = 'works_for'
+    has_possession_of = 'has_possession_of'
+    purchases = 'purchases'
+    buys_from = 'buys_from'
+    sells = 'sells'
+    donates_to = 'donates_to'
+    obtains_from = 'obtains_from'
+    comes_from = 'comes_from'
+    has_immediate_family_member = 'has_immediate_family_member'
+    legal_status_change = 'legal_status_change'
+    has_role = 'has_role'
 
 class Entity(BaseModel):
     """Entity schema"""
@@ -29,7 +45,7 @@ class Entity(BaseModel):
 
 class Relation(BaseModel):
     """Relation schema"""
-    name: str = Field(
+    name: RelationType = Field(
         description="The specific name of the ONLY relationship that can exist between entities in the domain. THESE ARE THE ONLY RELATIONSHIPS THAT MAY BE RETURNED:",
         examples=["'is_the_owner_of' Denotes a business relationship where an ACTOR controls, or is the legal owner of, a business, gallery, auction house, or other for-profit organization.'"
 "'works_with'  Denotes a business relationship between ACTORS who are dealers, organizations, looters, or collectors.'"
@@ -46,13 +62,10 @@ class Relation(BaseModel):
 "'has_role' Describes the role or roles an actor or organization can have, such as SCHOLAR, DEALER, COLLECTOR, LOOTER, or OFFICER.' "
     ]),
 
-
-
 class Triplet(BaseModel):
-    """Triplet schema to represent entity-relation-entity structure in natural subject-verb-object order"""
+    """Triplet schema to represent entity-relation-entity structure"""
     entity1: Entity = Field(description="The first entity in the triplet.")
-    relation: Relation = Field(description="Defines the type of relationship that connects the head entity to the tail entity. "
-                      "This field identifies the interaction or connection between entities, such as works_with, has_immediate_family_member, is_the_owner_of, has_possession_of, comes_from, sells, purchases, buys_from, legal_status_change, has_role")
+    relation: Relation = Field(description="The relation connecting the first and second entities.")
     entity2: Entity = Field(description="The second entity in the triplet.")
 
 class CulturalHeritageSchema(BaseModel):
