@@ -15,7 +15,8 @@ The predefined relations are:
 - 'has_possession_of': Describes a situation where a dealer, organization, collector, or auction house controls an artefact whether through ownership or other means.
 - 'purchases': Describes a situation where a dealer, organization, collector, or auction house buys an artefact.
 - 'buys_from': Describes a situation where a dealer, organization, collector, or auction house buys an artefact from a named actor.
-- 'sells': Describes a situation where a dealer, organization, collector, or auction house sells an artefact.
+- 'sells': Describes a situation where a dealer, organization, collector, or auction house sells A NAMED ARTEFACT.
+- 'makes_sale_to': Describes a situation where a dealer, organization, collector, or auction house makes a sale to another ACTOR.
 - 'donates_to': Describes a situation where a dealer, organization, collector, or auction house donates an artefact to another entity.
 - 'obtains_from': Describes a situation where a dealer, organization, collector, or auction house obtains an artefact from another entity under unclear circumstances.
 - 'comes_from': Describes a situation where the provenance of an artefact is attributed.
@@ -30,6 +31,7 @@ Make sure to provide a valid and well-formatted JSON adhering to the given schem
 Content:
 {content}
 """
+
 def create_prompt(
         base_prompt: str,
         output_format: PydanticOutputParser,
