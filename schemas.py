@@ -1,4 +1,3 @@
-
 """`cultural_heritage` schema module"""
 
 from pydantic import BaseModel, Field
@@ -15,6 +14,7 @@ class RelationType(str, Enum):
     purchases = 'purchases'
     buys_from = 'buys_from'
     sells = 'sells'
+    makes_sale_to = "makes_sale_to"
     donates_to = 'donates_to'
     obtains_from = 'obtains_from'
     comes_from = 'comes_from'
