@@ -46,6 +46,7 @@ class Relation(BaseModel):
 "'has_role' Describes the role or roles an actor or organization can have, such as SCHOLAR, DEALER, COLLECTOR, LOOTER, or OFFICER.' "
     ]),
 
+
 class CulturalHeritageSchema(BaseModel):
     """Cultural Heritage Schema"""
     entities: List[Entity] = Field(
@@ -58,8 +59,4 @@ class CulturalHeritageSchema(BaseModel):
                      "Relations define the various ways in which entities within the cultural heritage domain can interact "
                      "or be connected to one another, such as ownership, collaboration, or provenance."),
     )
-    patterns: List[Pattern] = Field(
-        description=("A detailed collection of patterns that describe specific relational configurations between entities. "
-                     "These patterns help in understanding complex interactions and connections within the cultural heritage domain, "
-                     "providing clear examples and scenarios for better comprehension."),
-    )
+   
