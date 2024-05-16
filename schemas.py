@@ -30,7 +30,7 @@ class Entity(BaseModel):
 class Relation(BaseModel):
     """Relation schema"""
     name: str = Field(
-        description="The specific name of the relationship that can exist between entities in the domain.",
+        description="The specific name of the ONLY relationship that can exist between entities in the domain. THESE ARE THE ONLY RELATIONSHIPS THAT MAY BE RETURNED:",
         examples=["'is_the_owner_of' Denotes a business relationship where an ACTOR controls, or is the legal owner of, a business, gallery, auction house, or other for-profit organization.'"
 "'works_with'  Denotes a business relationship between ACTORS who are dealers, organizations, looters, or collectors.'"
 "'works_for' Describes an employment or contractual relationship between ACTORS who are dealers, organizations, businesses, museums, government agencies, looters, or collectors.'"
@@ -47,13 +47,13 @@ class Relation(BaseModel):
     ]),
 
 
-lass Triplet(BaseModel):
+
+class Triplet(BaseModel):
     """Triplet schema to represent entity-relation-entity structure in natural subject-verb-object order"""
     entity1: Entity = Field(description="The first entity in the triplet.")
     relation: Relation = Field(description="Defines the type of relationship that connects the head entity to the tail entity. "
                       "This field identifies the interaction or connection between entities, such as works_with, has_immediate_family_member, is_the_owner_of, has_possession_of, comes_from, sells, purchases, buys_from, legal_status_change, has_role")
     entity2: Entity = Field(description="The second entity in the triplet.")
-
 
 class CulturalHeritageSchema(BaseModel):
     """Cultural Heritage Schema"""
