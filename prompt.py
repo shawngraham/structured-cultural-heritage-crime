@@ -10,8 +10,8 @@ Extract information regarding cultural heritage crime from the following text.
 In particular, please provide the following information:
 - A list of entities involved in the text, including their types and detailed descriptions.
 - A list of relations that define how these entities interact with one another.
-- A set of patterns that describe specific relational configurations between these entities, providing detailed contextual explanations.
-
+- A list of triplets that describe specific relational configurations between these entities as head, relation, tail, providing detailed contextual explanations.
+ 
 {format_instructions}
 
 Make sure to provide a valid and well-formatted JSON adhering to the given schema.
