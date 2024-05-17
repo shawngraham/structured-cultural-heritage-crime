@@ -1,0 +1,1985 @@
+Christie's New York;has_possession_of;Alabaster Duck Vessel
+Christie's New York;works_with;Metropolitan Museum of Art
+Metropolitan Museum of Art;works_for;Egyptian Supreme Council of Antiquities
+Christie's New York;obtains_from;Israeli Private Collection
+US Customs and Immigration;has_possession_of;Alabaster Duck Vessel
+US Customs and Immigration;donates_to;Egyptian Supreme Council of Antiquities
+Rupert Wace;has_possession_of;Alabaster Duck Vessel
+Rupert Wace;donates_to;PIASA
+PIASA;donates_to;Egyptian Supreme Council of Antiquities
+Alabaster Duck Vessel;comes_from;Burial Chamber in the Pyramid Complex of Amenemhat III at Dashur
+Fremont Culture Figurine;has_possession_of;Utah Museum
+Clarence Pilling;has_role;Rancher
+Art Pilling;has_role;Rancher
+Woodrow Pilling;has_role;Rancher
+Dusty Pruitt;has_role;Ranch Hand
+Tony Finn;has_role;Ranch Hand
+Clarence Pilling;works_with;Geneve Oliver
+Geneve Oliver;works_with;Neil Judd
+Neil Judd;works_with;Noel Morss
+Pilling Family;is_the_owner_of;Pilling Figurines
+Federal Government;is_the_owner_of;Pilling Figurines
+Federal Government;has_possession_of;College of Eastern Utah Prehistoric Museum
+College of Eastern Utah Prehistoric Museum;has_possession_of;Pilling Figurines
+Noel Morss;works_for;Peabody Museum
+Pilling Figurines;comes_from;Pilling Site
+Pilling Figurines;has_possession_of;Zions First National Bank
+Pilling Figurines;has_possession_of;College of Eastern Utah Prehistoric Museum
+Pilling Figurine No. 2;legal_status_change;Missing
+Ernil Bernal;works_with;Samuel Bernal
+Ernil Bernal;has_possession_of;goldsilver and other Moche antiquities
+Bernal family;has_possession_of;gold and silver artefacts
+police;works_with;Walter Alva
+police;legal_status_change;looters
+Sotheby;has_possession_of;Sipán Jewellery
+Sotheby;legal_status_change;Sipán Jewellery
+Bourne Collection;has_possession_of;Sipán material
+Swetnam / Drew / Kelly smuggling ring;works_with;looters
+Viking-age silver;comes_from;site in northern Estonia
+German auction house;has_possession_of;Viking-age silver
+University of Tallinn archaeologists;works_with;Estonian National Heritage Board
+Estonian National Heritage Board;works_with;University of Tallinn archaeologists
+National Heritage Board;works_with;University of Tallinn
+University of Tallinn;works_with;National Heritage Board
+Estonian Defence League;works_with;archaeologists
+archaeologists;works_with;Estonian Defence League
+German police;works_with;Estonian police
+Estonian police;works_with;German police
+Walter Augsburger;works_with;Maido Kättmann
+Maido Kättmann;works_with;Walter Augsburger
+Walter Augsburger;sells;108 coins
+Maido Kättmann;obtains_from;Ubina site
+Maido Kättmann;legal_status_change;Estonian Circuit Court
+Maido Kättmann;legal_status_change;Estonian Supreme Court
+Institute of History in Tallinn;has_possession_of;coins jewellery fragmentsand other artefacts
+Boston Museum of Fine Arts;has_possession_of;Vibia Sabina Statue
+Boston Museum of Fine Arts;purchases;Vibia Sabina Statue
+Robert Hecht;sells;Vibia Sabina Statue
+Robert Hecht;makes_sale_to;Boston Museum of Fine Arts
+Fritz Bürki;works_for;Robert Hecht
+Giacomo Medici;works_with;Nikolas Koutoulakis
+Giacomo Medici;works_with;Fritz Bürki
+Giacomo Medici;legal_status_change;Swiss and Italian authorities
+Boston Museum of Fine Arts;donates_to;Italian Ministry of Culture
+Vibia Sabina Statue;comes_from;Hadrian villa at Tivoli
+Giacomo Medici;has_role;Italian antiquities dealer
+Giacomo Medici;has_role;convicted criminal
+Niels Heidenreich;legal_status_change;Niels Heidenreich
+Niels Heidenreich;has_possession_of;Golden Horns of Gallehus
+Niels Heidenreich;sells;clasps Indian coins and other fakes manufactured from the gold of the melted down horn
+Adam Gottlob Oehlenschläger;has_role;Poet of a poem mythologising the loss of the Golden Horns
+National Museum of Denmark;has_possession_of;golden earrings believed to have been made by Heidenreich from the prehistoric gold of the horns
+National Museum of Denmark;has_possession_of;replica Golden Horns
+Museum at Ringe;has_possession_of;another set of earrings made from the original horns
+Royal Jelling Museum;has_possession_of;1970s replicas of the Golden Horns
+Thieves;has_possession_of;1970s replicas of the Golden Horns
+Thieves;has_possession_of;large gold neck ring
+National Museum of Denmark;has_role;Creator of a downloadable game based on the original theft
+Classic Maya vase;comes_from;Tomb 12 at Río Azul
+Classic Maya vase;comes_from;Río Azul
+Detroit Institute of Arts;has_possession_of;Classic Maya vase
+Andre Emmerich Gallery;sells;Classic Maya vase
+Peter G. Wray;has_possession_of;Classic Maya vase
+Detroit Institute of Arts;purchases;Classic Maya vase
+Detroit Institute of Arts;buys_from;Andre Emmerich Gallery
+Detroit Institute of Arts;buys_from;Peter G. Wray
+Sam Sachs;has_role;Director of the Detroit Institute of Arts
+Michael Kan;has_role;Curator of AfricanOceanic and New World Art
+Nazca and Paracas cemeteries;has_possession_of;sellable ancient textiles
+owners of the Hacienda Ocucaje;has_role;collectors of pre-Conquest cultural material
+owners of the Hacienda Ocucaje;has_role;participants in the looting of nearby sites
+Max Uhle;works_with;Dr. Ernesto Mazzei
+Max Uhle;purchases;Nazca cultural material
+Max Uhle;buys_from;local dealer
+Pablo Soldi;has_role;Ica-based dealer in antiquities
+Pablo Soldi;has_role;commercial looter of archaeological sites
+Pablo Soldi;sells;mummy masks from Ocucaje
+Pablo Soldi;makes_sale_to;Paul Truel
+Paul Truel;is_the_owner_of;Hacienda Ocucaje
+Pablo Soldi;makes_sale_to;American Museum of Natural History
+American Museum of Natural History;purchases;over 100 objects from Soldi
+American Museum of Natural History;has_possession_of;objects from Ocucaje sites
+Zero Mostel;has_possession_of;textiles from Cerro Max Uhle
+Javier Cabrera Darquea;purchases;341 Ica stones
+Javier Cabrera Darquea;buys_from;Pablo Soldi and Carlos Darquea
+Javier Cabrera Darquea;has_possession_of;around 11,000 Ica stones
+Basilio Uschuya;has_role;forger of Ica stones
+Irma Gutiérrez de Aparcana;has_role;forger of Ica stones
+Basilio Uschuya;legal_status_change;arrested for selling archaeological material
+Basilio Uschuya;legal_status_change;signed a legal confession
+French naval forces;has_possession_of;Uigwe
+Bibliothèque nationale de France;has_possession_of;Uigwe
+Park Byeong-sen;works_for;Bibliothèque nationale de France
+French President François Mitterrand;donates_to;South Korea
+Cultural Action;works_with;Paris administrative court
+French president Nicholas Sarkozy;works_with;South Korean president Lee Myung-bak
+France;has_possession_of;Uigwe
+Governor-General of Colonial Japanese Korea Hirobumi;has_possession_of;Uigwe
+Imperial Household Agency in Tokyo;has_possession_of;Uigwe
+Japanese Prime Minister Kan Naoto;donates_to;South Korea
+Prime Minister Noda Yoshihiko;donates_to;South Korea
+South Korean Cultural Heritage Administration;has_possession_of;Uigwe
+Sweden's National Museum;has_possession_of;Classic Maya stela
+Sweden's National Museum;donates_to;Guatemala
+Ledyard Smith;works_with;Edwin M. Shook
+Ledyard Smith;works_for;Carnegie Institution
+Edwin M. Shook;works_for;Carnegie Institution
+Everett Rassiga;has_possession_of;lower portion of Stela 1
+Everett Rassiga;works_with;Placeres Temple Facade
+Everett Rassiga;works_with;Las Bocas-style figurines
+Ernest Ericson;purchases;lower portion of Stela 1
+Ernest Ericson;donates_to;Ericson Foundation
+Ericson Foundation;donates_to;Swedish National Museum
+Swedish National Museum;donates_to;Folkens Museum Etnografiska
+Karl-Herbert Mayer;works_with;Folkens Museum Etnografiska
+Folkens Museum Etnografiska;donates_to;Guatemala
+Karl-Herbert Mayer;works_with;Guatemala
+Piedras Negras Stela 9;comes_from;Piedras Negras
+Millon auction house;has_possession_of;Piedras Negras Stela 9 fragment
+Manichak and Jean Aurance;has_possession_of;Piedras Negras Stela 9 fragment
+Manichak and Jean Aurance;buys_from;Pierre Langlois
+Pierre Langlois;buys_from;Earl Stendahl
+Earl Stendahl;has_role;California-based dealer
+Piedras Negras Stela 10;comes_from;Piedras Negras
+Piedras Negras Stela 11;comes_from;Piedras Negras
+Museum of Fine ArtsHouston;has_possession_of;Piedras Negras Stela 11 fragment
+Piedras Negras Stela 11 fragment;comes_from;Piedras Negras Stela 11
+Piedras Negras Stela 25;comes_from;Piedras Negras
+Museo Nacional de Arqueología y Etnología;has_possession_of;Piedras Negras Stela 25 fragment
+Linden-Museum in Stuttgart;has_possession_of;Piedras Negras Stela 25 fragment
+Guy Loudmer and Hervé Poulin;has_possession_of;Piedras Negras Stela 25 fragment
+Hôtel des Ventes;has_possession_of;Piedras Negras Stela 25 fragment
+Piedras Negras Stela 26;comes_from;Piedras Negras
+French collector;has_possession_of;Piedras Negras Stela 26 fragment
+Piedras Negras Stela 29;comes_from;Piedras Negras
+Tokyo;has_possession_of;Piedras Negras Stela 29 fragments
+Piedras Negras Stela 32;comes_from;Piedras Negras
+Parke-Bernet Galleries;has_possession_of;Piedras Negras Stela 32
+Piedras Negras Stela 34;comes_from;Piedras Negras
+Galerie Jeanne Bucher;has_possession_of;Piedras Negras Stela 34
+Piedras Negras Stela 35;comes_from;Piedras Negras
+Ludwig Collection;has_possession_of;Piedras Negras Stela 35 fragment
+Rautenstrauch-Joest-Museum für V√∂lkerkunde;has_possession_of;Piedras Negras Stela 35 fragment
+Ballcourt Marker;comes_from;Cancún
+Hieroglyphic Panel;comes_from;Cancún
+Guatemalan authorities;works_with;archaeologists
+Guatemalan authorities;works_with;nearby communities
+archaeologists;works_with;nearby communities
+private museum in Guatemala;has_possession_of;Hieroglyphic Panel
+Lance Entwistle;buys_from;'Manukonga'
+Lance Entwistle;purchases;Five carved wooden panels
+Lance Entwistle;sells;Five carved wooden panels
+Lance Entwistle;makes_sale_to;George Ortiz
+George Ortiz;has_possession_of;Five carved wooden panels
+Lance Entwistle;legal_status_change;New Zealand Government
+Five carved wooden panels;comes_from;Te Āti Awa iwi
+Ngati Rahiri Taonga;has_possession_of;Puke Ariki
+Valdivia figurines;comes_from;Valdivia Culture
+Valdivia figurines;has_possession_of;international collections
+Valdivia figurines;has_possession_of;Museo Banco Central in Quito
+Museo Banco Central in Quito;purchases;looted material
+Museo Banco Central in Quito;buys_from;dealers
+dealers;sells;Valdivia sculptural pieces
+looters;has_possession_of;Valdivia cultural sites
+looters;sells;Valdivia figurines
+locals;sells;faked Valdivia figurines
+potter;makes_sale_to;tourists
+potter;makes_sale_to;dealers
+fakers;sells;Valdivia pieces
+fakers;makes_sale_to;tourists
+fakers;makes_sale_to;dealers
+David Bernstein;has_role;antiquities dealer
+David Bernstein;works_with;Metropolitan Museum of Art
+David Bernstein;works_with;Art Institute of Chicago
+David Bernstein;has_possession_of;66 Peruvian antiquities
+David Bernstein;has_possession_of;158 antiquities
+David Bernstein;legal_status_change;federal agents
+David Bernstein;has_possession_of;160 more antiquities
+David Bernstein;legal_status_change;pleaded guilty to filing a false customs declaration
+David Bernstein;works_with;federal investigators
+David Bernstein;donates_to;Peruvian Embassy
+National Geographic Society;has_role;hosted an exhibition
+David Bernstein;works_with;Sotheby's auction house
+David Bernstein;has_possession_of;ancient Peruvian jewellery
+federal agents;has_possession_of;ancient Peruvian jewellery
+Looters;has_possession_of;Morgantina Silver
+Metropolitan Museum of Art;purchases;Morgantina Silver
+Metropolitan Museum of Art;buys_from;Robert Hecht
+Robert Hecht;buys_from;Orazio Di Simone
+Orazio Di Simone;buys_from;Vincenzo Bossi and Filippo Baviera
+Metropolitan Museum of Art;has_possession_of;Morgantina Silver
+Malcolm Bell;works_for;University of Virginia
+Malcolm Bell;works_for;Morgantina Excavation Team
+Giuseppe Mascara;legal_status_change;Italian Government
+Metropolitan Museum of Art;legal_status_change;Italian Government
+Metropolitan Museum of Art;donates_to;Italian Government
+Maurice Tempelsman;has_possession_of;Two Acrolithic Sculptures
+Getty Museum;has_possession_of;Getty Aphrodite
+Morgantina Silver;comes_from;Morgantina
+Euphronios Krater;comes_from;Italy
+Laconian Kylix;comes_from;Italy
+Three Examples of Red-Figured Pottery;comes_from;Italy
+David Swetnam;has_role;smuggler
+David Swetnam;legal_status_change;convicted
+Benjamin Bishop Johnson;has_role;collector
+Benjamin Bishop Johnson;has_role;dealer
+Benjamin Bishop Johnson;has_role;authenticator
+Benjamin Bishop Johnson;purchases;Sipán material
+Benjamin Bishop Johnson;sells;Sipán material
+Benjamin Bishop Johnson;makes_sale_to;John Bourne
+George Roberts;has_role;physicist
+Noel Keyes;has_role;attorney
+Meryl Macklin;has_role;attorney
+Meryl Macklin;works_for;HellerEhrmanWhite & McAuliffe
+Benjamin Bishop Johnson;legal_status_change;defendant
+Peru;is_the_owner_of;undocumented Peruvian antiquities
+Benjamin Bishop Johnson;has_possession_of;Sipán material
+Sotheby New York;sells;Johnson collection
+US;legal_status_change;imposed emergency import restrictions
+US;works_with;Peru
+Italian Carabinieri;has_role;Operation Geryon
+castle of Melfi;has_role;Italian state museum
+Antonio 'Nino' Savoca;has_possession_of;eight Greek decorated vases
+Antonio 'Nino' Savoca;has_possession_of;boxes full of broken artefacts from ItalyGreeceand Bulgaria
+Antonio 'Nino' Savoca;has_possession_of;large cleaning facility containing intact pottery
+Antonio 'Nino' Savoca;works_with;Luigi Coppola
+Luigi Coppola;works_with;Pasquale Camera
+Pasquale Camera;has_role;captain in the Guardia di Finanza
+Pasquale Camera;works_with;Frieda Tchacos
+Danilo Zicchi;has_possession_of;sixty artefacts
+Danilo Zicchi;works_with;Giacomo Medici
+Danilo Zicchi;works_with;Robert Hecht
+Danilo Zicchi;works_with;Gianfranco Becchina
+El Zotz;is_the_owner_of;Temple 1
+Looters;has_possession_of;carved lintels
+Denver Museum of Art;obtains_from;Looters
+Denver Museum of Art;donates_to;Guatemala
+Mint Museum of Art;has_possession_of;unprovenienced vase
+Nasher Museum of Art;has_possession_of;unprovenienced vase
+Proyecto Nacional Tikal;works_for;Guatemalan government
+Stephen Houston;works_for;Proyecto Nacional Tikal
+Marco Antonio Bailey;works_for;Guatemalan government
+Ian Graham;works_for;Proyecto Nacional Tikal
+George Andrews;works_for;Proyecto Nacional Tikal
+Nicholas Hellmuth;has_role;Director of the Foundation for Latin American Anthropological Research
+Foundation for Latin American Anthropological Research;is_the_owner_of;Nicholas Hellmuth
+Classic Maya hieroglyphic panel;comes_from;Cancún 
+Classic Maya hieroglyphic panel;has_possession_of;Museo El Príncipe Maya
+Museo El Príncipe Maya;is_the_owner_of;private museum in Cobán 
+Cancún Ballcourt Marker;comes_from;Cancún 
+Cancún Ballcourt Marker;legal_status_change;recovered in 2003
+Cancún;has_role;major Classic Maya site
+Cancún;legal_status_change;experienced several looting events from the 1960s into the 2000s
+Toledo Museum of Art;purchases;Etruscan black-figured kalpis
+Toledo Museum of Art;buys_from;Gianfranco and Ursula Becchina
+Gianfranco Becchina;works_with;Giacomo Medici
+Giacomo Medici;sells;Etruscan black-figured kalpis
+Gianfranco Becchina;has_possession_of;Etruscan black-figured kalpis
+Gianfranco Becchina;is_the_owner_of;Antike Kunst Palladion
+Antike Kunst Palladion;has_possession_of;Etruscan black-figured kalpis
+Toledo Museum of Art;donates_to;Italy
+Etruscan black-figured kalpis;comes_from;Italy
+Gianfranco Becchina;legal_status_change;Italian investigators
+Giacomo Medici;legal_status_change;Italian investigators
+Dumbarton Oaks;has_possession_of;Kumluca Silver
+George Zacos;has_possession_of;Kumluca Silver
+Mrs Robert Woods Bliss;purchases;Kumluca Silver
+Mrs Robert Woods Bliss;donates_to;Dumbarton Oaks
+Antalya Museum;has_possession_of;Kumluca Silver
+Nizeh Firath;works_for;Istanbul Archaeological Museum
+Nizeh Firath;has_possession_of;Kumluca Silver
+George Zacos;obtains_from;Kumluca
+Dumbarton Oaks;legal_status_change;Turkish government
+Dumbarton Oaks;legal_status_change;Turkish Minister of Education Orhan Orguz
+Dumbarton Oaks;legal_status_change;US museums
+Unnamed antiquities collector based in Trujillo;works_with;Walter Alva
+Unnamed looter;has_possession_of;Moche material
+Unnamed looter;sells;Gold objects from La Mina
+Unnamed looter;works_with;Unnamed antiquities collector based in Trujillo
+John Bourne;has_possession_of;Moche gold objects
+John Bourne;legal_status_change;John Bourne Collection
+Raul Apesteguía;purchases;La Mina items
+Raul Apesteguía;sells;Sea god headdress
+Raul Apesteguía;makes_sale_to;Leonardo Patterson
+Leonardo Patterson;has_possession_of;Sea god headdress
+Leonardo Patterson;legal_status_change;Leonardo Patterson
+Leonardo Patterson;is_the_owner_of;Warehouse in Spain
+Leonardo Patterson;works_with;Anton Roeckl
+Anton Roeckl;has_possession_of;Ceramic artefacts from La Mina or Dos Cabezas
+Anton Roeckl;legal_status_change;Anton Roeckl
+ICE;has_possession_of;Ceramic artefacts from La Mina or Dos Cabezas
+ICE;donates_to;Peru
+Organized crime groups;works_with;Looters
+Looters;has_possession_of;Solid gold bracelets
+Christie's New York;sells;One gold bracelet
+American collector;has_possession_of;Four gold bracelets
+French government;donates_to;Romanian government
+Romanian Border Police;has_possession_of;One gold bracelet
+Swiss collectors;has_possession_of;Three gold bracelets
+American collectors;has_possession_of;Three gold bracelets
+German antiquities collector;has_possession_of;One gold bracelet
+Romanian National History Museum;has_possession_of;Recovered gold bracelets
+Romanian General Police Inspectorate;has_role;Heritage crime investigation
+Romanian General Police Inspectorate;legal_status_change;Reduction of heritage crime department
+Antonine Wall;has_possession_of;heavily-corroded Roman iron axehead
+Falkirk Museum;has_possession_of;heavily-corroded Roman iron axehead
+Royal Commission on the Ancient and Historic Monuments of Scotland (RCAHMS);has_role;Canmore database
+Historic Scotland;works_with;Strathclyde Police
+Historic Scotland;works_with;East Dunbartonshire Council
+Strathclyde Police;legal_status_change;person caught with a metal detector in Peel Park
+Oxford Archaeology;has_role;recording nighthawking instances
+Antonine Wall;comes_from;Roman Empire
+Antonine Wall;has_role;UNESCO World Heritage Site
+Mildred Barns Bliss;purchases;Maya mosaic mask
+Mildred Barns Bliss;is_the_owner_of;Dumbarton Oaks Research Library and Collection
+Dumbarton Oaks Research Library and Collection;has_possession_of;Maya mosaic mask
+Dr. Josú Sáenz;obtains_from;villagers
+Dr. Josú Sáenz;sells;Maya mosaic mask
+Dr. Josú Sáenz;works_with;dealer
+dealer;sells;Maya mosaic mask
+dealer;makes_sale_to;Alphonse Jax
+Alphonse Jax;sells;Maya mosaic mask
+Alphonse Jax;makes_sale_to;Mildred Barns Bliss
+Dr. Gordon Ekholm;has_role;curator of Mexican archaeology at the American Museum of Natural History
+Dr. Gordon Ekholm;works_for;American Museum of Natural History
+Grolier Codex;comes_from;villagers
+Grolier Codex;has_possession_of;Grolier Club
+Grolier Codex;has_possession_of;anonymous owner
+Dr. Josú Sáenz;has_possession_of;Maya mosaic mask
+Cara Sucia;has_possession_of;stone jaguar head
+Dr. Alberto Luna;has_possession_of;figurine accredited to Cara Sucia
+National Commission for Culture and Art (CONCULTURA);works_with;National Foundation for Archaeology (FUNDAR)
+Government of El Salvador;works_with;Paul Amaroli
+Government of El Salvador;works_with;Stanley Boggs
+Government of El Salvador;works_with;United States
+United States;legal_status_change;Salvadoran Cultural Property
+United States;legal_status_change;Memorandum of Understanding with El Salvador
+Cara Sucia;comes_from;Cotzumalhuapa Culture
+Cara Sucia;has_possession_of;figurines and whistles
+Cara Sucia;has_possession_of;stone sculpturesdecorated ceramic vesselsfigurinesand objects made of jade
+Government of El Salvador;legal_status_change;Salvadoran antiquities law
+Government of El Salvador;legal_status_change;Salvadoran customs records
+Sotheby New York;has_possession_of;Two pre-Columbian antiquities
+Val Edwards;has_role;looter and pre-Columbian antiquities smuggler
+Val Edwards;works_with;Latin American entrepreneur
+Val Edwards;has_possession_of;pre-Columbian antiquities
+Val Edwards;sells;pre-Columbian antiquities
+Sotheby New York;has_possession_of;Maya priest figure and large brazier
+Sotheby New York;sells;items looted from the Peruvian site of Sipán
+Stacy Goodman;has_role;head of Sotheby pre-Columbian department
+Leonardo Patterson;has_role;Costa Rican antiquities dealer
+Leonardo Patterson;legal_status_change;implicated in an Australian tax loophole scheme
+Leonardo Patterson;legal_status_change;convicted of federal wire fraud
+Leonardo Patterson;legal_status_change;sentenced to a year in prison
+Leonardo Patterson;has_possession_of;large brazier
+Leonardo Patterson;works_with;Val Edwards
+HMS Duke of Albany;has_possession_of;Royal Navy
+Duncan Keates;obtains_from;HMS Duke of Albany
+Duncan Keates;legal_status_change;Ministry of Defence Police
+Duncan Keates;legal_status_change;Kirkwall Sheriff Court
+Ministry of Defence Police;works_with;Maritime and Coastguard Agency
+Ministry of Defence Police;works_with;Navy Command
+Ministry of Defence Police;works_with;Defence Policy and Business
+Defence Policy and Business;works_with;diving community
+Jiri Frel;works_for;Getty Museum
+Jiri Frel;works_with;Bruce McNall
+Bruce McNall;works_with;Robert Hecht
+Bruce McNall;works_for;Summa Antiquities
+Robert Hecht;works_for;Summa Antiquities
+Sy Weintraub;buys_from;Summa Antiquities
+Sy Weintraub;donates_to;Getty Museum
+Jiri Frel;works_with;Jerome Eisenberg
+Jiri Frel;works_with;Gianfranco Becchina
+Jiri Frel;legal_status_change;Internal Revenue Service
+Jiri Frel;has_role;Curator of Antiquities
+Thomas Hoving;has_role;Director of the Metropolitan Museum of Art
+Getty Museum;has_possession_of;fourth-century BC fresco fragments
+Getty Museum;has_possession_of;Roman head
+Getty Museum;has_possession_of;two sarcophagus fragments
+Getty Museum;has_possession_of;Getty Kouros
+Sezai Portakalci;works_for;Incirlik Air Base
+Sezai Portakalci;obtains_from;Looted Sites in Turkey
+Sezai Portakalci;sells;Collectors and Dealers
+Joel Malter;is_the_owner_of;Malter Galleries
+Sezai Portakalci;makes_sale_to;Joel Malter
+Joel Malter;legal_status_change;US Customs
+Sezai Portakalci;legal_status_change;Turkish Police
+US Customs;works_with;Turkish Police
+Sidney S. Lyon;has_role;amateur archaeologist
+Slack Farm;comes_from;Caborn-Welborn culture
+Slack family;is_the_owner_of;Slack Farm
+Slack Farm tenants;works_for;Slack Farm
+Slack Farm tenants;obtains_from;another owner
+ten pot hunters;purchases;permission to loot Slack Farm
+ten pot hunters;has_possession_of;650 graves
+Sergeant Miles Hart;has_role;Kentucky State Police
+Sergeant Miles Hart;legal_status_change;ten looters
+Union County grand jury;legal_status_change;ten looters
+Indiana of Kentucky;legal_status_change;grave desecration
+Native American Groups;works_with;State Medical Examiner
+Native American Groups;has_possession_of;human remains from Slack Farm
+Hungary;has_possession_of;Sevso Treasure
+József Sümegh;has_possession_of;Sevso Treasure
+József Sümegh;sells;two pieces of silver
+József Sümegh;buys_from;antiquities dealer in Budapest
+Marquess of Northampton;has_possession_of;Sevso Treasure
+Hungary;purchases;seven pieces of the Sevso Treasure
+Hungary;buys_from;a trust in the name of Peter Wilson two sons
+Peter Wilson;has_immediate_family_member;two sons
+Peter Wilson;works_for;Sotheby‚
+Peter Wilson;works_with;Marquess of Northampton
+József Sümegh;has_immediate_family_member;Ishtevan
+Hungarian National Museum;has_possession_of;Roman-period silver folding stand
+unknown people;works_with;József Sümegh
+unknown people;legal_status_change;József Sümegh
+New York State Supreme Court;legal_status_change;Hungary
+Marion True;works_for;J. Paul Getty Museum
+Jiri Frel;works_for;J. Paul Getty Museum
+Marion True;has_role;Curator of Antiquities
+J. Paul Getty Museum;has_possession_of;Getty Aphrodite
+J. Paul Getty Museum;has_possession_of;Fourth-century BC gold funerary wreath
+J. Paul Getty Museum;has_possession_of;Barbara and Lawrence Fleischman Collection
+Marion True;works_with;Robert Hecht
+Marion True;works_with;Giacomo Medici
+Marion True;works_with;Robin Symes
+Marion True;has_role;Curator of Greek and Roman Art
+Metropolitan Museum of Art;works_with;Marion True
+Marion True;has_possession_of;House on the Greek island of Paros
+Christos Michaelides;works_with;Robin Symes
+Robin Symes;works_with;Barbara and Lawrence Fleischman
+Marion True;legal_status_change;Italian investigators
+Marion True;legal_status_change;Greek prosecutors
+J. Paul Getty Museum;has_possession_of;Fifth-century BC bronze tripod and candelabrum
+Guglielmo Collection;comes_from;Fifth-century BC bronze tripod and candelabrum
+Marion True;works_with;Barbara and Lawrence Fleischman
+The Getty Museum;donates_to;Museo Archeologico in AidoneSicily
+The Getty Museum;has_possession_of;Terracotta Head of Hades
+The Getty Museum;purchases;Terracotta Head of Hades
+The Getty Museum;buys_from;Maurice Tempelsman
+Maurice Tempelsman;buys_from;Robin Symes
+Terracotta Head of Hades;comes_from;Morgantina sanctuary of Demeter and Persephone
+Terracotta Head of Hades;legal_status_change;The Getty Museum
+José Luis Várez Fisa;donates_to;National Archaeological Museum of Spain
+National Archaeological Museum of Spain;purchases;181 ancient artefacts
+National Archaeological Museum of Spain;buys_from;José Luis Várez Fisa
+José Luis Várez Fisa;purchases;artefacts
+José Luis Várez Fisa;buys_from;Sotheby New York
+José Luis Várez Fisa;buys_from;Jerome Eisenberg
+Jerome Eisenberg;purchases;artefacts
+Jerome Eisenberg;buys_from;auction in London
+Giacomo Medici;works_with;Gianfranco Becchina
+Giacomo Medici;has_possession_of;photographs
+Gianfranco Becchina;has_possession_of;photographs
+United States Customs;has_possession_of;Coroma material
+Steven Berger;has_possession_of;hundreds of textiles
+Steven Berger;sells;Coroma textile
+Royal Canadian Mounted Police;has_possession_of;Coroma textile
+Roger Cornelius Russell Yorke;has_possession_of;over 6,000 Bolivian and Peruvian objects
+Roger Cornelius Russell Yorke;works_with;Steven Berger
+Roger Cornelius Russell Yorke;is_the_owner_of;a store in La Paz
+US State Department Cultural Property Advisory Committee;has_role;recommended emergency import restrictions
+US State Department;legal_status_change;emergency import restrictions on Coroma Textiles
+Bolivian government;legal_status_change;Supreme Decree No 21951
+Michael Ratner;works_for;community of Coroma
+Bill Verick;works_for;community of Coroma
+Jordan Eth;works_for;community of Coroma
+Steven Berger;purchases;textiles in La Paz
+Roger Yorke;legal_status_change;charged with illegally importing Bolivian cultural property
+Roger Yorke;legal_status_change;convicted under Canada Cultural Property Export and Import Act
+Canadian government;donates_to;Bolivia
+community of Coroma;has_possession_of;42 pieces of textiles
+Coroma community members;has_role;punished for involvement in textile thefts
+Coroma community members;has_role;highlight difficult issues surrounding poverty and cultural property theft
+Nok terracottas;has_possession_of;museum in Jos
+museum in Jos;works_for;Department of Mines
+director of the mine;buys_from;tin miners
+director of the mine;makes_sale_to;Bernard Fagg
+Bortolot Daybreak Corporation;has_role;provider of TL dates
+European dealers;works_with;local traders
+local traders;works_with;digger
+Mourtala Diop;legal_status_change;arrested in New York
+Mourtala Diop;sells;fake Nok terracottas
+Bortolot Daybreak Corporation;has_role;provider of TL certificates
+Nigerian traders;sells;Nok terracottas
+Nigerian traders;works_with;Chelsea area of Manhattan
+Nigerian traders;works_with;uptown galleries
+Nigerian traders;works_with;Internet
+National Commission for Museums and Monuments (NCMM);has_role;manager of Nigeria cultural heritage
+National Commission for Museums and Monuments (NCMM);legal_status_change;established by Decree no 77
+French customs officials;has_possession_of;Nigerian artefacts
+US Homeland Security;has_possession_of;ten Nok terracottas
+US Homeland Security;works_with;Customs and Border Protection (CBP)
+US Homeland Security;works_with;French agents
+US Homeland Security;donates_to;Nigeria
+Nigerian National Museum in Lagos;has_possession_of;Nok terracottas
+Nigerian National Museum in Lagos;works_with;director-general
+Two metal-detector users;works_with;Museum in Guildford
+Dealers;buys_from;Looters
+Police;has_possession_of;A small amount of material
+Surrey Archaeological Society;has_possession_of;Material sent anonymously
+Surrey Archaeological Society;works_with;Local voluntary group
+Surrey Archaeological Society;has_role;Catalyst for Treasure Act 1996
+Looters;sells;Artefacts
+Dealers;has_possession_of;Artefacts
+Artefacts;comes_from;Wanborough Temple site
+Artefacts;has_possession_of;Antiquities market
+Artefacts;comes_from;Iron Age and Roman periods
+Artefacts;comes_from;Temple function
+Artefacts;has_possession_of;US market
+Artefacts;has_possession_of;BelgiumSwitzerlandGermanyNew Zealand
+Looters;works_with;Dealers
+Looters;works_with;Treasure hunters
+Looters;works_with;Nighthawkers
+Surrey Archaeological Society;works_with;Rescue excavations and surveys
+Surrey Archaeological Society;works_with;Police
+Surrey Archaeological Society;works_with;Court
+Court;legal_status_change;Looters
+Court;legal_status_change;Dealers
+The State Hermitage Museum;has_possession_of;three million objects
+The State Hermitage Museum;has_possession_of;jewel-encrusted icons and other religious objectsjewellery and clockssalt cellarssugar bowlsa caviar scoopand a coffee pot
+Russian Empress Catherine the Great;is_the_owner_of;The State Hermitage Museum
+Colonel Vladimir Mefty;has_role;Chief of CIDMilitiaRussian Federation
+Colonel Vladimir Mefty;works_for;MilitiaRussian Federation
+Larisa Zavadskaya;has_role;curator
+The State Hermitage Museum;legal_status_change;thefts of 226 objects
+The State Hermitage Museum;works_with;World Wide Club of Petersburgers
+World Wide Club of Petersburgers;works_with;The State Hermitage Museum
+The State Hermitage Museum;has_possession_of;Winter Palace
+The State Hermitage Museum;has_possession_of;landmark buildings in central St Petersburg
+William Niven;sells;Xochipala-style figurine
+William Niven;makes_sale_to;Harvard's Peabody Museum
+Harvard's Peabody Museum;has_possession_of;Xochipala-style figurine
+Princeton University Art Museum;has_possession_of;Xochipala-style figurines
+Gillett G. Griffin;donates_to;Princeton University Art Museum
+Peter G. Wray;donates_to;Princeton University Art Museum
+Peter David Joralemon;donates_to;Princeton University Art Museum
+Forrest D. Colburn;donates_to;Princeton University Art Museum
+Peter David Joralemon;has_role;curator at the Lowe Art Museum
+Peter David Joralemon;has_role;Director of Atlantic Art Partners
+Forrest D. Colburn;has_role;Professor of Latin American Studies at the City University of New York
+Mexican Shaft Tomb Tradition;comes_from;NayaritJalisco and Colima
+Mexican Shaft Tomb Tradition;has_possession_of;funerary goods
+archaeologists;works_with;salvage excavations
+Vincent Price;has_possession_of;figurine collection
+auction catalogues;has_possession_of;figurines from the shaft tombs
+collectors;has_possession_of;Colima figures
+Diego Rivera;works_with;Frieda Kahlo
+Diego Rivera;has_possession_of;looted figures from the tombs
+Frieda Kahlo;has_possession_of;looted figures from the tombs
+Earl Stendhal;works_with;Ralph C. Atlman
+Earl Stendhal;has_possession_of;Shaft Tomb figures
+Ralph C. Atlman;has_possession_of;Shaft Tomb figures
+Jules Berman;has_possession_of;Mexican Shaft Tomb figurines
+Two 9th/10th century reliefs;comes_from;A temple in Rajasthan
+Two 9th/10th century reliefs;has_possession_of;US Homeland Security
+US Homeland Security;donates_to;India
+John Eskenazi;works_with;London-based dealer
+John Eskenazi;sells;Second maithuna
+Second maithuna;obtains_from;India
+Second maithuna;obtains_from;Hong Kong
+Second maithuna;obtains_from;Thailand dealer
+Second maithuna;obtains_from;London buyer
+Second maithuna;obtains_from;New York City
+First maithuna;obtains_from;India
+First maithuna;obtains_from;Hong Kong
+First maithuna;obtains_from;New York buyer
+First maithuna;obtains_from;Basel buyer
+Matthew Bogdanos;has_role;Assistant District Attorney for Manhattan
+Kirit L. Mankodi;has_role;Excavation participant
+M. Postel;has_role;French national with interest in Astru art
+Rajan Mathai;has_role;India ambassador to France
+Interpol;has_role;Issued alert for missing maithunas
+US Immigration and Customs Enforcement;has_role;Reported on second maithuna's transport
+Vaman Ghiya;has_role;Indian antiquities dealer
+Vaman Ghiya;is_the_owner_of;handicrafts saleroom in Jaipur
+Vaman Ghiya;has_possession_of;approximately 900 antiques and antiquities
+Vaman Ghiya;works_with;network of intermediaries
+network of intermediaries;obtains_from;thieves
+thieves;comes_from;temples or other cultural sites and institutions
+Vaman Ghiya;has_possession_of;storage facilities in Mathura and Delhi
+Vaman Ghiya;sells;antiquities
+Vaman Ghiya;makes_sale_to;Sotheby London
+Vaman Ghiya;is_the_owner_of;Cape Lion Logging
+Vaman Ghiya;is_the_owner_of;Megavena
+Vaman Ghiya;is_the_owner_of;Artistic Imports Corporation
+Cape Lion Logging;sells;antiquities
+Megavena;sells;antiquities
+Cape Lion Logging;makes_sale_to;Sotheby‚
+Megavena;makes_sale_to;Sotheby‚
+Sotheby;has_possession_of;93 lots of antiquities
+Sotheby;purchases;antiquities
+Sotheby;works_with;Brendan Lynch
+Brendan Lynch;works_for;Sotheby‚
+Sotheby;legal_status_change;link with Vaman Ghiya exposed by Peter Watson
+Sotheby;has_possession_of;red sandstone figure of a Jina
+red sandstone figure of a Jina;comes_from;Vilasgarh temple
+Vaman Ghiya;makes_sale_to;Christie auction house
+Vaman Ghiya;legal_status_change;convicted in 2008 and sentenced to life imprisonment
+Vaman Ghiya;legal_status_change;conviction quashed by an appeals court in January 2014
+seized material;comes_from;Vaman Ghiya
+seized material;donates_to;dispossessed temples or public museum
+Las Bocas;comes_from;Olmec Figurine
+Metropolitan Museum of Art;has_possession_of;Las Bocas-style 'baby-face' figurine
+Nelson Rockefeller;donates_to;Metropolitan Museum of Art
+Nelson Rockefeller;purchases;Las Bocas-style 'baby-face' figurine
+Nelson Rockefeller;buys_from;Everett Rassiga
+Everett Rassiga;sells;Las Bocas-style 'baby-face' figurine
+Everett Rassiga;obtains_from;Looters
+Everett Rassiga;makes_sale_to;Nelson Rockefeller
+Everett Rassiga;legal_status_change;Attempted sale of looted Maya temple façade
+Michael Coe;has_role;Archaeologist
+María de la Cruz Paillés Hernández;has_role;Archaeologist
+Román Piña Chan;has_role;Archaeologist
+National Museum of Anthropology;works_for;Román Piña Chan
+Paillés Hernández;works_for;Las Bocas archaeological project
+Looters;works_with;Intermediaries in Mexico City
+Las Bocas;legal_status_change;Heavily looted site
+Las Bocas;legal_status_change;Kidnapping by criminal gangs
+State of Puebla's Attorney General's office;works_for;Helicopters
+Helicopters;works_with;Excavations at Las Bocas-Caballo Pintado
+Barry Stern;has_role;Director of Hillwood Museum
+Barry Stern;has_possession_of;Nine ancient Egyptian artefacts
+Barry Stern;sells;Five ancient Egyptian artefacts
+Christie's New York;has_possession_of;Five ancient Egyptian artefacts
+Barry Stern;sells;Three ancient Egyptian artefacts
+Christie's;has_possession_of;Three ancient Egyptian artefacts
+Barry Stern;legal_status_change;Sentenced to one year's imprisonment
+Barry Stern;obtains_from;Hillwood Museum
+Christie's;obtains_from;Barry Stern
+ICOM Red List;has_role;List of categories of African archaeological objects particularly at risk from looting
+Virginia Museum of Fine Arts;has_possession_of;Sokoto head and torso
+Jacques Chirac;has_role;President of France
+Jacques Chirac;works_with;Louvre
+Musée du quai Branly;has_possession_of;300,000 objects
+Louvre;has_possession_of;Two Nok terracottas
+Louvre;buys_from;Samir Borro
+Louvre;purchases;Two Nok terracottas
+Samir Borro;sells;Two Nok terracottas
+Nigerian Minister of Culture;legal_status_change;Two Nok terracottas
+Musée du quai Branly;has_possession_of;Eight Nok terracottas
+Roger Azar;donates_to;MNAAO
+Samir Borro;sells;Multiple-headed terracotta relief
+Samir Borro;sells;Whole terracotta figure
+Hôtel Drouot;sells;Terracotta zoomorphic figure
+Barbier-Mueller collection;sells;Fragment of a terracotta head
+Pierre Harter collection;sells;Terracotta head
+J. Paul Getty Museum;has_possession_of;Getty kouros
+Jiri Frel;obtains_from;Gianfranco Becchina
+Jean Lauffenberger;has_possession_of;Getty kouros
+J. Paul Getty Museum;purchases;Getty kouros
+Jeffrey Spier;has_role;scholar and antiquities dealer
+Fernando Onore;sells;Getty kouros
+Fernando Onore;sells;intermediary in Calabria
+intermediary in Calabria;sells;Gianfranco Becchina
+Gianfranco Becchina;sells;Getty kouros
+J. Paul Getty Museum;has_possession_of;Paestan red-figure calyx krater
+J. Paul Getty Museum;has_possession_of;Stone stela with Greek funerary inscription
+J. Paul Getty Museum;has_possession_of;Etruscan candelabrum
+J. Paul Getty Museum;sells;Paestan red-figure calyx krater
+J. Paul Getty Museum;sells;Stone stela with Greek funerary inscription
+J. Paul Getty Museum;sells;Etruscan candelabrum
+Paestan red-figure calyx krater;comes_from;Asteas
+Paestan red-figure calyx krater;obtains_from;Gianfranco Becchina
+Gianfranco Becchina;sells;Paestan red-figure calyx krater
+J. Paul Getty Museum;purchases;Paestan red-figure calyx krater
+J. Paul Getty Museum;purchases;Etruscan candelabrum
+Atlantis Antiquities;sells;Etruscan candelabrum
+Atlantis Antiquities;is_the_owner_of;Robert Hecht
+Atlantis Antiquities;is_the_owner_of;Jonathan Rosen
+Giacomo Medici;has_possession_of;Etruscan candelabrum
+Robert Hecht;has_possession_of;Etruscan candelabrum
+Aurelino Aguayo;works_with;archaeologists
+Carnegie Institute;works_with;Sylvanus Morley
+Carnegie Institute;works_with;Carl Cuthe
+Carnegie Institute;has_possession_of;photographs of Stelae 1 through 17
+Carnegie Institute;has_possession_of;photographs of Stelae 18 through 22
+Eric von Euw;works_with;Carnegie Institute
+Eric von Euw;works_with;Graham
+Museum of Fine ArtsBoston;has_possession_of;flat dish from Xultun
+Justin Kerr;has_possession_of;K8007 cylindrical vessel
+Morley Museum at Tikal;has_possession_of;K8007 cylindrical vessel
+William Saturno;works_with;Boston University
+William Saturno;works_with;archaeological team
+looters;has_possession_of;Stela 3
+looters;has_possession_of;Stela 10
+looters;has_possession_of;Stela 12
+looters;has_possession_of;polychrome ceramic vessels
+looters;has_possession_of;mural painting on the west wall of Structure 10K-2
+Fourth-century BC sculptural group of two griffins attacking a fallen doe;has_possession_of;Maurice Tempelsman
+Maurice Tempelsman;obtains_from;Robin Symes
+Fourth-century BC marble lekanis;has_possession_of;Maurice Tempelsman
+Statue of Apollo;has_possession_of;Maurice Tempelsman
+Marble bust of a man;has_possession_of;Robin Symes
+Attic Red-Figured mask kantharos;buys_from;Fritz Bürki
+Attic Red-Figured mask kantharos;has_possession_of;Robin Symes
+Attic Red-Figured kalpis;buys_from;Robin Symes
+Apulian pelike;buys_from;Fritz Bürki
+Attic Black-Figured zone cup;buys_from;Fritz Bürki
+Attic Black-Figured zone cup;buys_from;Atlantis Antiquities
+Apulian Red-Figured pelike;buys_from;Fritz Bürki
+Apulian Red-Figured pelike;buys_from;Atlantis Antiquities
+Cult Statue of a Goddess;buys_from;Robin Symes
+Robin Symes;buys_from;Renzo Canavesi
+Attic Red-Figured calyx krater;buys_from;Fleischman collection
+Fleischman collection;buys_from;Robin Symes
+Second-century BC statuette of Tyche;purchases;Fleischman Collection
+Fleischman Collection;buys_from;Robin Symes
+First-century AD statuette of Dionysos;has_possession_of;Fleischman Collection
+Etruscan bronze mirror with relief-decorated cover;has_possession_of;Fleischman Collection
+Etruscan antefix in the form of a maenad and Silenos dancing;has_possession_of;Fleischman Collection
+Apulian Red-Figured bell krater;has_possession_of;Fleischman Collection
+Fleischman Collection;buys_from;Fritz Bürki
+Attic Black-Figured amphora;has_possession_of;Fleischman Collection
+Attic Black-Figured amphora;buys_from;Atlantis Antiquities
+Attic Red-Figured cup;has_possession_of;Fleischman Collection
+Paestan squat lekythos;has_possession_of;Fleischman Collection
+Etruscan Pontic amphora;has_possession_of;Fleischman Collection
+Giacomo Medici;works_with;Robert Hecht
+Giacomo Medici;is_the_owner_of;Antiquaria Romana
+Giacomo Medici;has_possession_of;Euphronios (Sarpedon) krater
+Giacomo Medici;sells;Euphronios (Sarpedon) krater
+Giacomo Medici;works_with;Christian Boursaud
+Giacomo Medici;is_the_owner_of;Hydra Gallery
+Hydra Gallery;sells;Onesimos kylix
+Hydra Gallery;makes_sale_to;J. Paul Getty Museum
+Giacomo Medici;works_with;Sotheby London
+Giacomo Medici;works_with;Robin Symes
+Giacomo Medici;works_with;Frieda Tchacos
+Giacomo Medici;works_with;Ali Aboutaam
+Giacomo Medici;works_with;Hischam Aboutaam
+Ali Aboutaam;sells;artefacts
+Ali Aboutaam;makes_sale_to;Lawrence and Barbara Fleischman
+Ali Aboutaam;makes_sale_to;Maurice Tempelsman
+Ali Aboutaam;makes_sale_to;Shelby White and Leon Levy
+Ali Aboutaam;makes_sale_to;Hunt brothers
+Ali Aboutaam;makes_sale_to;George Ortiz
+Ali Aboutaam;makes_sale_to;José Luis Várez Fisa
+Ali Aboutaam;makes_sale_to;J. Paul Getty Museum
+Ali Aboutaam;makes_sale_to;Metropolitan Museum of Art
+Ali Aboutaam;makes_sale_to;Cleveland Museum of Art
+Ali Aboutaam;makes_sale_to;Boston Museum of Fine Arts
+Giacomo Medici;is_the_owner_of;Editions Services
+Giacomo Medici;works_with;Mat Securitas
+Giacomo Medici;works_with;Arts Franc
+Giacomo Medici;works_with;Tecafin Fiduciaire
+Giacomo Medici;legal_status_change;Carabinieri
+Giacomo Medici;legal_status_change;Swiss police
+Giacomo Medici;has_possession_of;3,800 whole or fragmentary objects
+Giacomo Medici;has_possession_of;4,000 photographs of artefacts
+Giacomo Medici;has_possession_of;35,000 sheets of paper
+Giacomo Medici;legal_status_change;Italian state
+Giacomo Medici;legal_status_change;Marion True
+Giacomo Medici;legal_status_change;Robert Hecht
+Carabinieri;legal_status_change;Danilo Ziccho
+Pasquale Camera;has_role;dealer
+Robert Hecht;has_role;US dealer
+Robert Hecht;works_with;Nikos Koutoulakis
+Robert Hecht;works_with;Eli Borowsky
+Robert Hecht;works_with;Frieda Tchacos
+Robert Hecht;works_with;George Ortiz
+Robert Hecht;works_with;Gianfranco Becchina
+Robert Hecht;works_with;Giacomo Medici
+Gianfranco Becchina;has_role;dealer
+Giacomo Medici;has_role;dealer
+Nino Savoca;has_role;dealer
+Gianfranco Becchina;works_with;tombaroli
+Giacomo Medici;works_with;tombaroli
+Robert Hecht;sells;museums and collectors in the USA
+Benghazi Treasure;has_possession_of;National Commercial Bank
+National Commercial Bank;works_with;Department of Antiquities
+Looters;obtains_from;National Commercial Bank
+Looters;obtains_from;Department of Antiquities
+Looters;has_possession_of;Benghazi Treasure
+Looters;sells;500 coins
+Looters;sells;gold figurine
+Egyptian farmer;has_possession_of;500 coins
+Egyptian farmer;has_possession_of;gold figurine
+500 coins;comes_from;Benghazi Treasure
+gold figurine;comes_from;Benghazi Treasure
+Benghazi Treasure;comes_from;Temple of Artemis in Cyrene
+Benghazi Treasure;comes_from;Palace of Columns in Ptolemais
+Benghazi Treasure;comes_from;Meliu collection
+Benghazi Treasure;legal_status_change;UNESCO
+Francesco Bandarin;has_role;UNESCO Assistant Director-General for Culture
+Osama El-Ketaf;has_role;Head of the National Commercial Bank legal office
+Mohammed El-Shelmany;has_role;Benghazi office of the Department of Antiquities
+Hafed Walda;has_role;Libyan archaeologist
+Ahmed Buzaian;has_role;Professor of archaeology at Benghazi University
+Nick Meo;has_role;Reporter for The Telegraph
+J. Paul Getty Museum;purchases;Getty Aphrodite
+Robin Symes;sells;Getty Aphrodite
+Robin Symes;makes_sale_to;J. Paul Getty Museum
+Orazio di Simone;works_with;Renzo Canavesi
+Orazio di Simone;legal_status_change;Swiss authorities
+Renzo Canavesi;legal_status_change;Italian authorities
+Getty Aphrodite;comes_from;MorgantinaSicily
+J. Paul Getty Museum;donates_to;Italy
+Getty Aphrodite;has_possession_of;Museum of Aidone
+Major-General Horatio Gordon Robley;has_possession_of;Toi moko
+Major-General Horatio Gordon Robley;sells;Toi moko
+Major-General Horatio Gordon Robley;makes_sale_to;American Museum of Natural History
+Marquis of Tavistock;has_possession_of;Toi moko
+Sotheby London;sells;Toi moko
+Bonham London;sells;Toi moko
+Dalvanius Prime;has_role;musician
+Dalvanius Prime;works_with;New Zealand
+Te Herekiekie Herewini;has_role;head of the repatriation team
+Te Herekiekie Herewini;works_for;Te Papa
+Te Papa;has_possession_of;repatriated Toi moko
+US Army helicopter pilot;has_possession_of;antiquities stolen from an Egyptian storeroom
+US Army helicopter pilot;sells;antiquities stolen from an Egyptian storeroom
+Bonhams;has_possession_of;five stone and two ceramic vessels
+Bonhams;sells;five stone and two ceramic vessels
+Luc Watrin;works_with;Bonhams
+Bonhams;donates_to;Egyptian Embassy in London
+Christie New York;sells;An Egyptian rose granite vessel
+Metropolitan Museum of Art;has_possession_of;An Egyptian rose granite vessel
+Metropolitan Museum of Art;donates_to;Egypt
+Orpheus Art;sells;Predynastic opium poppy vase
+Wallis Gallery of Antiquities;has_possession_of;a pot
+Wallis Gallery of Antiquities;donates_to;Sands of Time Antiquities
+Sands of Time Antiquities;works_with;Art Loss Register (ALR)
+Art Loss Register (ALR);works_with;US Immigration and Customs Enforcement (ICE)
+US Immigration and Customs Enforcement (ICE);legal_status_change;US Army helicopter pilot Edward George Johnson
+US Army helicopter pilot Edward George Johnson;has_possession_of;Ma'adi artifacts
+US Army helicopter pilot Edward George Johnson;sells;Ma'adi artifacts
+Sue McGovern;works_with;Sands of Time Antiquities
+US Immigration and Customs Enforcement (ICE);donates_to;Egypt
+Provincial Archaeological Museum at Velzeke;has_possession_of;Roman silver hoard from Everbeek
+Finder;sells;Roman silver hoard from Everbeek
+Provincial Archaeological Museum at Velzeke;purchases;Roman silver hoard from Everbeek
+Provincial Archaeological Museum at Velzeke;buys_from;Finder
+Provincial Archaeological Museum at Velzeke;legal_status_change;Flanders Heritage Agency
+Finder;obtains_from;Field near the village of Everbeek
+Roman silver hoard from Everbeek;comes_from;Field near the village of Everbeek
+Flanders Heritage Agency;legal_status_change;Provincial Archaeological Museum at Velzeke
+Finder;works_with;Landowner
+Provincial Archaeological Museum at Velzeke;works_with;Provincial Gallo-Roman Museum in Tongeren
+Incidental looters;works_with;Julio Ullilén
+Julio Ullilén;has_role;Manager of a hostel in Leymebamba
+Julio Ullilén;obtains_from;Incidental looters
+Local police;legal_status_change;Incidental looters
+Local police;has_possession_of;Artefacts stolen by looters
+Peter Lerche;works_for;Peru National Institute of Culture
+Museo Leymebamba;has_possession_of;219 mummies and over 2,400 artefacts
+Sotheby Auction House;has_possession_of;Lot 7
+Sotheby Auction House;has_possession_of;Lot 10
+Sotheby Auction House;has_possession_of;Lot 11
+Sotheby Auction House;has_possession_of;Lot 17
+Sotheby Auction House;has_possession_of;Lot 18
+David Bernstein;has_possession_of;Lot 7
+David Bernstein;has_possession_of;Lot 11
+David Bernstein;has_possession_of;Lot 17
+Sotheby Auction House;sells;Lot 11
+Sotheby Auction House;sells;Lot 17
+Sotheby Auction House;sells;Lot 18
+Peruvian Government;legal_status_change;Sotheby Auction House
+Peruvian Government;legal_status_change;David Bernstein
+Brüning Museum / Museo Tumbas Reales de Sipán;has_possession_of;Lot 7
+Brüning Museum / Museo Tumbas Reales de Sipán;has_possession_of;Lot 11
+Brüning Museum / Museo Tumbas Reales de Sipán;has_possession_of;Lot 17
+Ra√∫l Apesteguía;works_with;Antiquities cartel
+Looters;works_with;Private collectors in Mexicothe United Statesand Europe
+Teobert Maler;obtains_from;Piedras Negras
+Teobert Maler;donates_to;Harvard University
+Harvard University;has_possession_of;Piedras Negras Panels 1 and 2
+University of Pennsylvania;obtains_from;Piedras Negras
+University of Pennsylvania;donates_to;Guatemala City
+University of Pennsylvania;has_possession_of;Piedras Negras Stela 14 and a portion of Altar 4
+Looters;obtains_from;Piedras Negras
+Minneapolis Institute of Arts;has_possession_of;Piedras Negras Stela 2
+Drug traffickers;works_with;Illegal settlers (squatters)
+Drug traffickers;works_with;Mexico Sinaloa cartel
+Stephen Houston;has_role;Archaeologist
+Guillermo González;has_role;Head of Guatemala drug police
+Charles Golden;has_role;Archaeologist
+The MET;has_possession_of;Piedras Negras Stela 5
+Leonardo Patterson;has_possession_of;Olmec figural carvings
+Leonardo Patterson;has_possession_of;El Manatí style busts
+Leonardo Patterson;has_possession_of;Moche headdress
+German police;has_possession_of;El Manatí style busts
+Leonardo Patterson;obtains_from;Spain
+Leonardo Patterson;obtains_from;Munich
+Leonardo Patterson;legal_status_change;Munich civil court
+El Manatí;comes_from;El Manatí style busts
+El Manatí;comes_from;wooden sculptures
+Ponciano Ortíz;works_with;Maria del Carmen Rodríguez
+Ponciano Ortíz;works_for;Instituto Nacional de Antropología e Historia (INAH)
+Maria del Carmen Rodríguez;works_for;Instituto Nacional de Antropología e Historia (INAH)
+Michael Coe;has_role;believes the busts to be genuine
+Julio Aguilar;has_role;writes about the looting and illegal export of artefacts
+El Universal;has_role;publishes articles on cultural heritage crime
+Brooklyn Museum;has_possession_of;Coptic Art collection
+Brooklyn Museum;has_possession_of;fakes
+Brooklyn Museum;has_possession_of;reworked pieces
+Metropolitan Museum in New York;has_possession_of;Coptic Art
+Louvre;has_possession_of;Coptic Art
+Brooklyn Museum;purchases;Coptic artefacts
+dealers in New York and Switzerland;sells;Coptic Art
+Recklinghausen museum in Germany;has_possession_of;fake Coptic Art
+Coptic Museum;has_possession_of;forgeries
+Brooklyn Museum;has_possession_of;Sheikh Ibada group
+Sheikh Ibada;comes_from;fakes
+Sheikh Ibada;comes_from;reworked pieces
+John Beckwith;has_role;art historian
+Gary Vikan;has_role;art historian
+Brooklyn Museum;has_possession_of;Christian-themed forgeries
+Brooklyn Museum;has_possession_of;pagan-themed forgeries
+Classic Maya pottery;has_possession_of;Museum of Fine ArtsBoston
+John Fulling;is_the_owner_of;Art Collectors of NovemberInc.
+Art Collectors of NovemberInc.;has_possession_of;November Collection
+Landon T. Clay;purchases;November Collection
+Landon T. Clay;donates_to;Museum of Fine ArtsBoston
+Museum of Fine ArtsBoston;has_possession_of;November Collection
+John Fulling;works_with;Guatemalan dealers
+John Fulling;has_role;collector
+Landon T. Clay;has_role;trustee of the MFA
+Landon T. Clay;has_role;honorary trustee of the MFA
+Clemency C. Coggins;works_for;Boston University
+Clemency C. Coggins;works_with;Alan Shestack
+Malcolm Rogers;works_for;Museum of Fine ArtsBoston
+Weld S. Henshaw;works_with;Museum of Fine ArtsBoston
+Martina Regina de Fahsen;works_for;Guatemalan Cultural Affairs
+Martina Regina de Fahsen;works_with;Guatemalan Foreign Ministry
+Museum of Fine ArtsBoston;works_with;Guatemalan Government
+November Collection;comes_from;Petén region of Guatemala
+November Collection;comes_from;NaranjoGuatemala
+November Collection;comes_from;San Agustin AcasaguastlánGuatemala
+November Collection;comes_from;Tintal
+November Collection;comes_from;Nakbe in the Mirador Basin
+Aidonia Treasure;comes_from;Aidonia cemetery
+archaiokapiloi;has_role;looters
+local government officials;works_with;archaiokapiloi
+Michael Ward Gallery;has_possession_of;Mycenaean gold jewelry and sealstones
+Michael Ward Gallery;sells;Mycenaean gold jewelry and sealstones
+Michael Ward Gallery;obtains_from;European collector
+Greek Ministry of Culture;legal_status_change;Michael Ward Gallery
+Michael Ward;is_the_owner_of;Michael Ward Gallery
+Michael Ward;donates_to;Society for the Preservation of the Greek Heritage (SPGH)
+Society for the Preservation of the Greek Heritage (SPGH);donates_to;Greece
+Greek Ministry of Culture;has_role;government agency
+Greek Archaeological Service;has_role;government agency
+Greek Archaeological Service;works_for;Greece
+Greek Ministry of Culture;works_for;Greece
+archaiokapiloi;obtains_from;Aidonia cemetery
+archaiokapiloi;sells;Mycenaean gold jewelry and sealstones
+Sevso Treasure;has_possession_of;fourteen pieces of silver plate and a copper cauldron
+Sevso;has_role;donor or recipient of the plate
+Anton Tkalec;has_possession_of;Sevso Treasure
+Anton Tkalec;works_with;Halim Korban
+Anton Tkalec;works_with;Mansur Mokhtarzade
+Halim Korban;works_with;Mansur Mokhtarzade
+Halim Korban;works_with;Art Consultancy
+Mansur Mokhtarzade;works_with;Art Consultancy
+Art Consultancy;is_the_owner_of;Peter Wilson
+Art Consultancy;is_the_owner_of;Rainer Zietz
+Peter Wilson;has_immediate_family_member;Wilson family
+Art Consultancy;purchases;geometric ewer
+Art Consultancy;purchases;Hunting (Sevso) Plate
+Art Consultancy;purchases;Achilles Plate
+Art Consultancy;purchases;Geometric Plate
+Art Consultancy;purchases;Hippolytus situla
+Halim Korban;obtains_from;Lebanese export permit
+Peter Wilson;works_with;Peter Mimpriss
+Peter Mimpriss;works_with;Marquess of Northampton
+Abraham Trust;is_the_owner_of;Sevso Treasure
+Abraham Trust;works_with;Peter Wilson
+Abraham Trust;works_with;Rainer Zietz
+Abraham Trust;works_with;Marquess of Northampton
+Ingenio Providencia;is_the_owner_of;Hacienda Malagana
+Farm worker;sells;Gold objects
+Colombian army;works_for;Hacienda Malagana
+Police units;works_for;Hacienda Malagana
+Instituto Vallecaucano de Investigaciones Científicas (INCIVA);works_for;Hacienda Malagana
+Instituto Colombiano de Antropología (ICAN);works_for;Hacienda Malagana
+Museo del Oro;purchases;Malagana gold objects
+Museo del Oro;obtains_from;Looters
+George Ortiz;has_possession_of;Malagana artefacts
+Universidad Nacional de Colombia Research Group on Human Factors and Ergonomics in Palmira;works_for;Malagana artefacts
+Looters;has_possession_of;Malagana artefacts
+Men from Palmira;obtains_from;Looters
+Mensun Bound;has_role;Author of a major publication on the vessel
+Mensun Bound;has_role;Author of introductory essay to the Butterfields auction
+Ong;has_role;Investor in the salvage and excavation of the Hoi An wreck
+Hoi An;comes_from;South China Sea
+Hoi An;comes_from;South China Sea Tradition
+UNESCO;has_role;Organization concerned with the protection of underwater cultural heritage
+UNESCO Convention on the Protection of the Underwater Cultural Heritage 2001;has_role;Convention to protect underwater cultural heritage
+Vietnam;has_role;Country that has not ratified the UNESCO Convention on the Protection of the Underwater Cultural Heritage 2001
+Pope;has_role;Describer of techniques used by commercial wreck-hunting vessels
+Flecker;has_role;Commentator on underwater excavations in Southeast Asia
+Flecker;works_with;Commercial companies
+Mensun Bound;works_with;Commercial salvage companies
+Hoi An wreck;has_possession_of;Ceramics
+Hoi An wreck;has_possession_of;Artefacts
+Haisla;has_role;Indigenous group
+Chief G'psgolox;has_role;Leader of the Eagle Clan
+Humdzeed (Johnny Paul);has_role;Carver of the totem pole
+Wakas (Solomon Robertson);has_role;Carver of the totem pole
+Olof Hansson;has_role;Swedish vice consul to British Columbia
+Museum of Ethnography;has_possession_of;G'psgolox totem pole
+Olof Hansson;obtains_from;Henaksiala
+Museum of Ethnography;obtains_from;Olof Hansson
+Museum of Ethnography;donates_to;Haisla
+Henry Robertson;has_role;Carver of replica poles
+Henry Robertson;works_with;Museum of Ethnography
+Henry Robertson;works_with;Haisla
+G'psgolox totem pole;comes_from;Henaksiala village Misk'usa
+Canadian Department of Indian Affairs;legal_status_change;G'psgolox totem pole
+Canadian Department of Indian Affairs;legal_status_change;Olof Hansson
+Museum of Ethnography;legal_status_change;G'psgolox totem pole
+Smithsonian Institution Sackler Gallery;works_with;Singapore Tourism Board
+Smithsonian Institution Sackler Gallery;works_with;Singapore National Heritage Board
+Smithsonian Institution Sackler Gallery;works_with;Asian Civilizations Museum
+Seabed Explorations;works_for;Indonesian government
+Tilman Walterfang;has_role;Director of Seabed Explorations
+Dr Michael Flecker;works_for;Seabed Explorations
+Seabed Explorations;obtains_from;Belitung shipwreck
+Tilman Walterfang;obtains_from;Indonesian government
+Tilman Walterfang;sells;Sentosa Leisure Group
+Sentosa Leisure Group;is_the_owner_of;Belitung shipwreck collection
+Sentosa Leisure Group;works_with;Singapore Tourism Board
+Singapore Tourism Board;works_with;Asian Civilizations Museum
+Smithsonian Institution Sackler Gallery;legal_status_change;Smithsonian Congress of Scholars
+Smithsonian Institution Sackler Gallery;legal_status_change;American Association of Museums
+Smithsonian Institution Sackler Gallery;legal_status_change;UNESCO 2001 Convention
+Smithsonian Institution Sackler Gallery;legal_status_change;Science Magazine
+Smithsonian Institution Sackler Gallery;legal_status_change;The New York Times
+Smithsonian Institution Sackler Gallery;legal_status_change;NPR
+Smithsonian Institution Sackler Gallery;works_with;Republic of Indonesia
+Stendahl Galleries;sells;Piedras Negras Stela 2
+Minneapolis Institute of Arts;purchases;Piedras Negras Stela 2
+Brooklyn Museum;has_possession_of;Piedras Negras Stela 3
+Robert Huber;sells;Piedras Negras Stela 3
+Brooklyn Museum;buys_from;Robert Huber
+Brooklyn Museum;donates_to;Guatemala
+Museo Nacional de Arqueología y Etnología;has_possession_of;Piedras Negras Stela 3
+Galerie Jeanne Bucher;has_possession_of;Piedras Negras Stela 4
+Rufino Tamayo Museum;has_possession_of;Piedras Negras Stela 4
+Museum of Primitive Art;has_possession_of;Piedras Negras Stela 5
+Metropolitan Museum of Art;has_possession_of;Piedras Negras Stela 5
+Museo Nacional de Arqueología y Etnología;has_possession_of;Piedras Negras Stela 7
+Mexico;donates_to;Guatemala
+Bonhams;has_possession_of;Egyptian carved limestone relief fragment
+Australian private collector;has_possession_of;Egyptian carved limestone relief fragment
+Australian private collector;has_immediate_family_member;son
+Egyptian carved limestone relief fragment;comes_from;26th Dynasty Tomb of Mutirdis at Thebes
+Metropolitan Museum of Art;has_role;curator
+curator;works_for;Metropolitan Museum of Art
+Bonhams;works_with;Supreme Council of Antiquities
+Bonhams;donates_to;Egypt
+Supreme Council of Antiquities;has_role;notifier
+Operation Andromeda;has_role;police investigation
+Noriyoshi Horiuchi;has_role;Japanese antiquities dealer
+Noriyoshi Horiuchi;works_with;Elie Borowski
+Noriyoshi Horiuchi;is_the_owner_of;gallery in London
+Noriyoshi Horiuchi;is_the_owner_of;Horiuchi business in Tokyo
+Noriyoshi Horiuchi;works_for;Miho Museum
+Noriyoshi Horiuchi;obtains_from;Gianfranco Becchina
+Italian Carabinieri;works_with;Swiss police
+Italian Carabinieri;has_possession_of;20,000 artefacts
+Noriyoshi Horiuchi;has_possession_of;storage facilities in Geneva Freeport
+337 artefacts of Italian origin;comes_from;Italy
+337 artefacts of Italian origin;has_possession_of;Italy
+Las Limas Monument 1;comes_from;Las Limas in the Mexican Limas of Veracruz
+Severiano and Rosa Manuel Pascual;has_role;Discoverers of Las Limas Monument 1
+Alfonso Medellín Zenil;works_for;Museum of Anthropology at Xalapa
+Las Limas Monument 1;has_possession_of;Museum of Anthropology at Xalapa
+Las Limas Monument 1;legal_status_change;Stolen from the Museum of Anthropology at Xalapa on 12 October 1972
+Las Limas Monument 1;obtains_from;Traffickers
+Las Limas Monument 1;has_possession_of;Traffickers
+Las Limas Monument 1;has_possession_of;Police
+Police;works_with;Local sheriff
+Police;works_with;Mexican authorities
+J. Walter Fewkes;works_for;Smithsonian Institution
+Smithsonian Institution;has_possession_of;Mimbres pottery
+Museum of the American Indian;has_possession_of;Mimbres pottery
+Brody;has_role;former professor of Art History and Anthropology at the University of New Mexico
+Brody;has_role;former director of the Maxwell Museum
+Brody;works_for;University of New Mexico
+Brody;works_for;Maxwell Museum
+Brody;has_role;author of Mimbres Painted Pottery
+Steven LeBlanc;works_for;University of New Mexico
+Steven LeBlanc;is_the_owner_of;Mimbres Foundation
+Mimbres Foundation;has_possession_of;privately owned Mimbres sites
+James Quarrel;has_immediate_family_member;Mike Quarrel
+Mike Quarrel;has_immediate_family_member;Aaron Sera
+James Quarrel;has_immediate_family_member;Aaron Sera
+James Quarrel;legal_status_change;convicted under ARPA
+Mike Quarrel;legal_status_change;convicted under ARPA
+Aaron Sera;legal_status_change;convicted under ARPA
+James Quarrel;legal_status_change;appealed conviction
+Mike Quarrel;legal_status_change;appealed conviction
+Mike Quarrel;legal_status_change;arrested for looting in 1975
+Charles Quarrel;legal_status_change;arrested for looting in 1975
+Frank Quarrel;legal_status_change;arrested for looting in 1975
+Mike Quarrel;has_immediate_family_member;Charles Quarrel
+Mike Quarrel;has_immediate_family_member;Frank Quarrel
+Charles Quarrel;has_immediate_family_member;Frank Quarrel
+Italian Carabinieri;legal_status_change;Giacomo Medici
+Italian Carabinieri;legal_status_change;Robert Hecht
+Italian Carabinieri;legal_status_change;Gianfranco Becchina
+Marion True;legal_status_change;Italian prosecutors
+Jason Felch;works_with;Ralph Frammolino
+J. Paul Getty Museum;has_possession_of;350 antiquities
+J. Paul Getty Museum;obtains_from;dealers suspected or convicted of dealing in looted artefacts
+J. Paul Getty Museum;legal_status_change;Italian court
+J. Paul Getty Museum;has_possession_of;Statue of a Victorious Youth
+J. Paul Getty Museum;has_possession_of;Cult Statue of a Goddess
+Robin Symes;sells;Group of Attic Red-Figured calyx krater fragments
+Dietrich von Bothmer;sells;Group of Attic Red-Figured calyx krater fragments
+Galerie Nefer;sells;Group of Attic Red-Figured calyx krater fragments
+Frederick Schultz;sells;Group of Attic Red-Figured calyx krater fragments
+Gordon McClendon;donates_to;J. Paul Getty Museum
+Antike Kunst Palladion;is_the_owner_of;Gianfranco Becchina
+Galerie Nefer;donates_to;J. Paul Getty Museum
+Robin Symes;sells;Attic Red-Figured phiale fragments
+Fritz Bürki;sells;Attic Red-Figured phiale fragments
+Vasek Polak;donates_to;J. Paul Getty Museum
+Royal Athena Galleries;sells;Attic Janiform kantharos
+Michael Milken;donates_to;J. Paul Getty Museum
+Robin Symes;sells;Attic Red-Figured kylix
+Local residents;works_with;Individual families
+Iran's Islamic Police;legal_status_change;Local residents
+Iran's Ministry of Intelligence;works_with;Interpol
+Iranian Cultural Heritage and Tourism Organization;works_with;Sotheby's auction house
+Iranian Cultural Heritage and Tourism Organization;works_with;UK government
+Iranian government;works_with;National Museum in Tehran
+Iranian government;legal_status_change;Two men convicted of trafficking antiquities
+Iranian government;is_the_owner_of;Eight artefacts
+Mayfair gallery in London;has_possession_of;Eight artefacts
+Paris-based dealers;sells;Vases believed to be from Jiroft
+French institute;sells;An object discovered on sale at Sotheby's auction house in London
+Iranian government;obtains_from;Mayfair gallery in London
+Iranian government;obtains_from;Sotheby's auction house in London
+Iranian government;obtains_from;Paris-based dealers
+Anonymous Person;has_possession_of;Fremont Culture Figurine
+Anonymous Person;obtains_from;Vagabond Acquaintance
+Vagabond Acquaintance;obtains_from;Near VernalUtah
+Anonymous Person;donates_to;Bonnie Pitblado
+Bonnie Pitblado;has_possession_of;Fremont Culture Figurine
+James Adovasio;works_with;Bonnie Pitblado
+Steve Nelson;works_with;Bonnie Pitblado
+Molly Boeka Cannon;works_with;Bonnie Pitblado
+Fremont Culture Figurine;comes_from;Pilling Collection
+Utah State University Eastern Prehistoric Museum;has_possession_of;Fremont Culture Figurine
+Utah State University Eastern Prehistoric Museum;has_possession_of;Pilling Collection
+Antarctic Heritage Trust;has_possession_of;Cape Evans campsite
+Antarctic Heritage Trust;has_possession_of;Discovery Hut
+Thomas Keneally;obtains_from;Discovery Hut
+Thomas Keneally;donates_to;Antarctic Heritage Trust
+John Claydon;obtains_from;Discovery Hut
+John Claydon;obtains_from;Cape Evans campsite
+John Claydon;obtains_from;Hut associated with Ernest Shackleton
+John Claydon;sells;Christie's auction house
+Christie's auction house;makes_sale_to;Unnamed buyers
+John Claydon;donates_to;Scott Polar Research Institute at the University of Cambridge
+John Claydon;donates_to;Respective huts in Antarctica
+Huaca Malena;comes_from;Wari civilization
+Huaca Malena;has_possession_of;textiles
+Julio Tello;works_with;Toriba Mejía Xesspe
+Julio Tello;has_role;Peruvian archaeologist
+Toriba Mejía Xesspe;has_role;Peruvian archaeologist
+Rommel Angeles Falcon;has_role;Archaeologist
+Rommel Angeles Falcon;works_with;Pozzi
+Pozzi;has_role;Director of an archaeological project at Huaca Malena
+Pozzi;works_with;Angeles
+Angeles;has_role;Archaeologist
+Angeles;works_with;Pozzi
+Angeles;has_possession_of;4,000 textiles fragments
+Angeles;works_with;Pozzi colleagues
+Pozzi colleagues;works_with;Angeles
+Pozzi colleagues;has_role;Archaeologists
+Pozzi colleagues;has_possession_of;Huaca Malena textiles
+Pozzi colleagues;works_with;local school children
+local school children;works_with;Pozzi colleagues
+Christie's New York;sells;Neo-Assyrian stele fragment of Shamshi-Adad V
+Neo-Assyrian stele fragment of Shamshi-Adad V;comes_from;Tell Saih Hamad
+British Museum;has_possession_of;upper half of the stele
+resident of Geneva;has_possession_of;bottom half of the stele
+Bonhams London;sells;stele of Adad-Nerari III
+Tell Saih Hamad;legal_status_change;looted on 14 September 1999
+Bonhams London;legal_status_change;withdrew the stele from sale on 31 March 2014
+Batán Grande;comes_from;Lambayeque Culture
+Batán Grande;comes_from;Sicán Culture
+Batán Grande;has_possession_of;Huaca Loro
+Batán Grande;has_possession_of;Huaca Tres Ventanas
+Batán Grande;has_possession_of;Huaca la Merced
+Izumi Shimada;has_role;foremost authority on the archaeology of Batán Grande
+Izumi Shimada;works_for;Batán Grande
+Walter Alva;has_role;Peruvian archaeologist
+Museo Oro del Peru;is_the_owner_of;Miguel Mujica Gallo
+Museo Oro del Peru;has_possession_of;gold artefacts from Batán Grande
+Aurich family;is_the_owner_of;Batán Grande
+Aurich family;works_with;campesiños
+Juan José Aurich Pastor;is_the_owner_of;Batán Grande
+Edmundo Aurich Bonilla;has_immediate_family_member;Oswaldo Aurich Bonilla
+Edmundo Aurich Bonilla;is_the_owner_of;Batán Grande
+Oswaldo Aurich Bonilla;is_the_owner_of;Batán Grande
+Denis Garcia;works_with;Edmundo Aurich Bonilla
+Denis Garcia;works_with;Oswaldo Aurich Bonilla
+Denis Garcia;works_with;Manual Bacigalupo Remy
+Julio Tello;has_role;father of Peruvian archaeology
+Julio Tello;works_for;Museo de Arqueología Peruana
+Julio Tello;works_for;El Comercio
+Uma Maheshwar;comes_from;Wotol area of Dhulikhel
+German art dealer in Wiesbaden;has_possession_of;Uma Maheshwar
+German art dealer in Wiesbaden;sells;Museum für Indische Kunst
+Museum für Indische Kunst;has_possession_of;Uma Maheshwar
+Museum für Indische Kunst;legal_status_change;Uma Maheshwar
+Museum für Indische Kunst;donates_to;Nepal
+Patan Museum;has_possession_of;Uma Maheshwar
+Lain S. Bangdel;works_with;Jürgen Schick
+Lain S. Bangdel;has_role;Documenter and photographer of sacred art
+Jürgen Schick;has_role;Documenter and photographer of sacred art
+Riddi Pradhan;has_role;Former Director General of the Department of Archaeology in Kathmandu
+Mariane Yaldiz;has_role;Director of Museum für Indische Kunst
+Abraham Trust;works_with;Geoffrey Jenkinson
+Geoffrey Jenkinson;works_for;Abraham Trust
+Abraham Trust;has_possession_of;Sevso Treasure
+J. Paul Getty Museum;obtains_from;Abraham Trust
+Arthur Houghton;has_role;Antiquities curator
+Arthur Houghton;works_for;J. Paul Getty Museum
+Philip Wilson;has_immediate_family_member;Tom Wilson
+Philip Wilson;has_immediate_family_member;Peter Wilson
+Tom Wilson;has_immediate_family_member;Peter Wilson
+Ramiz Rizk;works_with;Philip Wilson
+Ramiz Rizk;works_with;Tom Wilson
+Marquess of Northampton;purchases;Sevso Treasure
+Marquess of Northampton;buys_from;Korban
+Marquess of Northampton;buys_from;Tkalec
+Marquess of Northampton 1987 Settlement Trust;is_the_owner_of;Sevso Treasure
+Sotheby;works_with;Marquess of Northampton
+Sotheby;has_possession_of;Sevso Treasure
+Lebanon;legal_status_change;Sevso Treasure
+Croatia;legal_status_change;Sevso Treasure
+Hungary;legal_status_change;Sevso Treasure
+London Metropolitan Police;legal_status_change;Sevso Treasure
+Peter Mimpriss;works_with;Abraham Trust
+Bonhams auction house;has_possession_of;Sevso Treasure
+Hungarian government;purchases;Sevso Treasure
+Thieves;has_possession_of;270 artifacts
+Christie's New York;has_possession_of;Several pieces
+Miami;has_possession_of;Most of the remainder
+American School of Classical Studies in Athens (ASCSA);has_possession_of;270 ancient Greek and Roman artefacts
+ASCSA;works_with;Greek Archaeological Service
+ASCSA;works_with;Greek police
+ASCSA;works_with;IFAR Reports
+ASCSA;works_with;Minerva
+Karahalios gang;has_role;Burglary
+Wilma Sabala;has_possession_of;Some stolen material
+Wilma Sabala;sells;Five pieces
+Christie's New York;makes_sale_to;Jerome Eisenberg
+Jerome Eisenberg;is_the_owner_of;Royal Athena Galleries
+Jerome Eisenberg;works_with;FBI
+FBI;works_with;Greek police
+FBI;has_possession_of;265 stolen objects
+Christie's New York;has_possession_of;Three marble heads
+Greek Ministry of Culture;has_possession_of;274 objects
+Wilma Sabala;legal_status_change;Arrested in Miami
+Anastasios Karahalios;legal_status_change;Arrested in Greece
+Ioannis Loris;legal_status_change;Arrested
+Anastasios Karahalios;legal_status_change;Convicted and sentenced to life imprisonment
+Tryfonas Karahalios (jr);legal_status_change;Arrested in Greece
+Tryfonas Karahalios (jr);legal_status_change;Convicted of the Corinth thefts
+Anastasios Karahalios;has_immediate_family_member;Tryfonas Karahalios (father)
+Anastasios Karahalios;has_immediate_family_member;Tryfonas Karahalios (brother)
+Anastasios Karahalios;has_immediate_family_member;George Karahalios (uncle)
+Wilma Sabala;has_immediate_family_member;George Karahalios (girlfriend)
+Sotheby;donates_to;China
+Two people from Baqiao DistrictXi'an Prefecture;works_with;Five farmers
+Five farmers;works_for;Two people from Baqiao DistrictXi'an Prefecture
+Qishan County gang;has_possession_of;Four grey ceramic figurines
+Qishan County gang;sells;Four grey ceramic figurines
+Qishan County gang;has_possession_of;200 ceramic figurines
+Qishan County gang;has_possession_of;71 colour painted figurines
+Police;legal_status_change;Qishan County gang
+Police;legal_status_change;Other gangs
+Chinese police officer;has_role;Recognized six figurines for sale
+Chinese Embassy in Washington DC;works_with;Sotheby‚
+US Customs;works_with;Sotheby‚
+US Customs;donates_to;China
+Joseph Banks;purchases;Toi moko
+Joseph Banks;buys_from;Māori
+Māori;sells;Toi moko
+Māori;makes_sale_to;Westerners
+General Sir Ralph Darling;legal_status_change;Sale of Toi moko
+Treaty of Waitangi;legal_status_change;Export of Toi moko
+Boyd Brothers construction company;works_with;road construction workers
+General Electric;is_the_owner_of;Mount Vernon Site
+General Electric;has_possession_of;GE Mound artefacts
+Kirby Wilson;works_with;state authorities
+Kirby Wilson;works_with;FBI
+John William Way;buys_from;Arthur J. Gerber
+John William Way;sells;GE Mound artefacts
+John William Way;makes_sale_to;Arthur J. Gerber
+John D. Towery;works_with;Danny G. Glover
+John D. Towery;sells;GE Mound artefacts
+Danny G. Glover;sells;GE Mound artefacts
+Arthur J. Gerber;purchases;GE Mound artefacts
+Randall R. Hanson;buys_from;John William Way
+Randall R. Hanson;buys_from;other looters
+Randall R. Hanson;has_possession_of;GE Mound artefacts
+General Electric;legal_status_change;GE Mound
+John William Way;legal_status_change;ARPA
+John D. Towery;legal_status_change;ARPA
+Danny G. Glover;legal_status_change;ARPA
+Arthur J. Gerber;legal_status_change;ARPA
+Randall R. Hanson;legal_status_change;ARPA
+Museum of Fine ArtsBoston;has_possession_of;Top half of the Weary Herakles statue
+Antalya Museum;has_possession_of;Bottom half of the Weary Herakles statue
+Museum of Fine ArtsBoston;works_with;Shelby White and Leon Levy
+Museum of Fine ArtsBoston;obtains_from;Shelby White and Leon Levy
+Shelby White and Leon Levy;works_with;Metropolitan Museum of Art
+Museum of Fine ArtsBoston;is_the_owner_of;Top half of the Weary Herakles statue
+Museum of Fine ArtsBoston;legal_status_change;Top half of the Weary Herakles statue
+Museum of Fine ArtsBoston;donates_to;Turkey
+Museum of Fine ArtsBoston;has_role;Curator of Provenance
+Weary Herakles statue;comes_from;PergeTurkey
+Leon Levy;has_immediate_family_member;Shelby White
+Templo de San Andrés de Machaca;has_possession_of;100 works of religious art
+Templo de San Andrés de Machaca;has_possession_of;two paintings ('San Francisco de Paula' and 'Santísima Trinidad')
+Templo de San Andrés de Machaca;has_possession_of;six sculptures of saints
+Templo de San Andrés de Machaca;has_possession_of;a tabernacle
+Templo de San Andrés de Machaca;has_possession_of;thirty pieces of embossed silver
+Bolivian Ministry of Cultures;has_possession_of;catalogue of stolen items
+Fuerza Especial de Lucha Contra el Crimen (FELCC);has_possession_of;fifty-six cultural objects
+Fuerza Especial de Lucha Contra el Crimen (FELCC);obtains_from;Templo de San Andrés de Machaca
+Felix Segales;has_role;commander of police
+Felipe Perez Paco;legal_status_change;convicted of theft
+Edgar Quiroz Soliz;legal_status_change;convicted of theft
+Nicómedes Blanco Paco;legal_status_change;convicted of theft
+Washington-based art dealer;works_with;Art Loss Register
+Washington-based art dealer;works_with;American collector
+Washington-based art dealer;has_possession_of;two colonial period Bolivian paintings
+Bolivian Embassy in London;has_possession_of;two colonial period Bolivian paintings
+Macario Mamani Mamani;has_role;mayor of the municipality
+Lupe Meneses;has_role;director of cataloguing with the Bolivian Ministry of Cultures
+Moche site of Sipán;comes_from;objects
+Enrico Poli;purchases;artefact samples from Sipán
+Pereda;sells;objects from the tomb
+Fred Drew;purchases;various Sipán objects
+Fred Drew;works_with;David Swetnam
+Fred Drew;obtains_from;Bernal brothers
+David Swetnam;makes_sale_to;Fred Drew
+Fred Drew;works_with;Miguel de Osma Berckemeyer
+Miguel de Osma Berckemeyer;works_with;Fine Arts Services
+Fine Arts Services;has_possession_of;Sipán objects
+Michael Kelly;works_with;David Swetnam
+Michael Kelly;has_possession_of;Sipán objects
+Michael Kelly;works_with;Benjamin Bishop Johnson
+Benjamin Bishop Johnson;purchases;Sipán objects
+Michael Kelly;works_with;Gaston Wallace
+Gaston Wallace;legal_status_change;US Customs
+Charles Craig;has_possession_of;Sipán objects
+Santa Barbara Museum of Art;has_possession_of;Sipán objects
+David Swetnam;legal_status_change;US Customs
+David Swetnam;has_role;convicted smuggler
+Jacqueline Swetnam;has_role;convicted smuggler
+Michael Kelly;has_role;convicted smuggler
+Thieves;has_possession_of;264 pottery vessels
+Thieves;obtains_from;Erskine Ramsey Archaeological Repository
+Erskine Ramsey Archaeological Repository;has_possession_of;264 pottery vessels
+Jim Knight;has_role;Chairman of anthropology at the Tuscaloosa campus of the University of Alabama
+Cathy Andreen;has_role;Spokeswoman for the University of Alabama
+FBI;has_role;Lead law enforcement agency on the case in 1980
+Margaret Hardin;has_role;University of Maine
+Vincas Steponaitis;has_role;State University of New York
+Moundville Archaeological Park;has_possession_of;Three out of the 264 stolen vessels
+University of Alabama;works_with;Archaeologists
+El Zotz Lintel 1;comes_from;Temple 1 at El Zotz
+Looters;obtains_from;Temple 1 at El Zotz
+Looters;sells;El Zotz Lintel 1
+Edward Merrin;has_possession_of;El Zotz Lintel 1
+Edward Merrin;sells;El Zotz Lintel 1
+Berry & Stark Associates;buys_from;Edward Merrin
+Berry & Stark Associates;donates_to;Denver Art Museum
+Denver Art Museum;has_possession_of;El Zotz Lintel 1
+Denver Art Museum;donates_to;Museo Nacional de Arqueología e Etnología
+Ian Graham;works_with;Denver Art Museum
+Juan Pedro Laporte;has_role;Proyecto Nacional Tikal
+Stephen D. Houston;has_role;Proyecto Arqueológico El Zotz
+David Stuart;has_role;Epigrapher
+Peru's National Museum;has_possession_of;2000-year-old textile
+Australian National Gallery;purchases;2000-year-old textile
+Australian National Gallery;buys_from;US-based dealer
+Julio Tello;has_possession_of;2000-year-old textile
+Julio Tello;works_with;mummy team
+2000-year-old textile;comes_from;Cerro Colorado
+2000-year-old textile;comes_from;mummy 319
+Paracas Archaeology Research Resource;has_possession_of;Details about WK 319-10
+Professor Jane Dwyer;has_role;Expert in Peruvian textiles
+Professor Jane Dwyer;works_with;Peruvian Government
+Australian National Gallery;has_possession_of;2000-year-old textile
+Australian Government;works_with;Australian National Gallery
+Australian Government;donates_to;Peru
+Clyde Holding;has_role;Australian Arts Minister
+Ann H. Peters;has_role;Provider of image
+Ann H. Peters;is_the_owner_of;Paracas Archaeological Resource
+Unnamed Guatemalan collector;works_with;Looters
+Unnamed Guatemalan collector;works_with;Local Guatemalan man
+Local Guatemalan man;works_with;Unnamed archaeologist from the United States
+Looters;works_with;Unnamed archaeologist from an eastern university
+Looters;has_possession_of;Artefacts from Río Azul
+Unnamed Guatemalan collector;has_possession_of;Artefacts from Río Azul
+Artefacts from Río Azul;comes_from;Río Azul
+Río Azul;has_possession_of;Looted tombs
+Río Azul;has_possession_of;Looters' trenches and tunnels
+Guatemalan government treasury agents;legal_status_change;Looters
+Ian Graham;works_with;Rafael Morales
+Ian Graham;works_with;Adams
+Ian Graham;has_role;Archaeologist
+Rafael Morales;has_role;Director of Prehispanic Monuments
+Adams;has_role;Archaeologist
+Egyptian military;works_for;Egyptian government
+Egyptian military;has_role;Protector of national museums
+Zahi Hawass;has_role;Former head of the Supreme Council of Antiquities
+Zahi Hawass;has_role;Former Minister for Antiquities
+Supreme Council of Antiquities;has_role;Heritage management organization
+International Council of Museums (ICOM);has_role;Publisher of Emergency Red List of Egyptian Cultural Objects at Risk
+Looters;has_possession_of;Inscribed blocks from the tomb of Ken-Amun
+Looters;has_possession_of;Artefacts from storage magazines in DahshurAbu SirGizaand Sharm el-Sheikh
+Looters;has_possession_of;Artefacts from El-Hibeh and Abu Sir
+Looters;has_possession_of;Artefacts from the Egyptian Museum
+Looters;has_possession_of;Artefacts from various archaeological sites
+Looters;has_possession_of;Artefacts from various museums
+Looters;has_possession_of;Artefacts from the tomb of Ken-Amun
+Looters;has_possession_of;Artefacts from storage magazines in Dahshur
+Looters;has_possession_of;Artefacts from storage magazines in Abu Sir
+Looters;has_possession_of;Artefacts from storage magazines in Giza
+Looters;has_possession_of;Artefacts from storage magazines in Sharm el-Sheikh
+Looters;has_possession_of;Artefacts from El-Hibeh
+Looters;has_possession_of;Artefacts from Abu Sir
+Amanollah Riggi;works_with;Oscar Muscarella
+Amanollah Riggi;works_with;Pakistani acquaintance
+Oscar Muscarella;works_for;The Metropolitan Museum of Art
+Ali Akbar;legal_status_change;Pakistani police
+Wali Mohammad Reeki;legal_status_change;Pakistani police
+Wali Mohammad Reeki;has_possession_of;Mummy
+Wali Mohammad Reeki;obtains_from;Sharif Shah Bakhi
+National Museum in Karachi;has_possession_of;Mummy
+Asma Ibrahim;works_for;National Museum of Pakistan
+Oscar Muscarella;has_role;Skeptic
+BBC science series Horizon;has_role;Documentary Producer
+Oscar Muscarella;has_role;Commentator
+Art Institute of Chicago;purchases;carved panel depicting two ball players
+Art Institute of Chicago;buys_from;Walter Randall
+Walter Randall;sells;carved panel depicting two ball players
+Peter Matthews;has_role;Archaeologist
+Peter Matthews;works_for;Yale
+Peter Matthews;works_with;Matthews colleagues
+La Corona;comes_from;Peten region of Guatemala
+Site Q;comes_from;Peten region of Guatemala
+Site Q;comes_from;La Corona
+Neil Brodie;has_role;Photographer
+Museo Nacional de Antropología;has_possession_of;124 artefacts
+Pakal Mask;comes_from;Palenque
+Pakal Mask;has_possession_of;Museo Nacional de Antropología
+K'inich Janaab' Pakal;has_possession_of;Pakal Mask
+Alberto Ruz Lhuillier;has_role;archaeologist
+Alberto Ruz Lhuillier;has_possession_of;Pakal Mask
+Museo Nacional de Antropología;has_possession_of;gold artefacts from Cenote of Sacrifice
+Carlos Perches Treviño;legal_status_change;arrested
+Ramón Sardina García;legal_status_change;warrant issued
+Carlos Perches Treviño;works_with;Ramón Sardina García
+Carlos Perches Treviño;has_role;veterinary school dropout
+Ramón Sardina García;has_role;veterinary school dropout
+Carlos Perches Treviño;works_with;Salvador 'el Cabo' Gutierrez
+Salvador 'el Cabo' Gutierrez;legal_status_change;arrested
+Carlos Perches Treviño;legal_status_change;charged with theft of a national treasure
+Carlos Perches Treviño;legal_status_change;charged with cocaine trafficking
+Museo Nacional de Antropología;has_possession_of;Zapotec bat god Murcielago mask
+Zapotec bat god Murcielago mask;comes_from;Monte Albán
+Leonardo Patterson;has_role;antiquities dealer
+Leonardo Patterson;legal_status_change;US FBI
+Leonardo Patterson;sells;fake Maya fresco
+Leonardo Patterson;makes_sale_to;Wayne Anderson
+Leonardo Patterson;has_possession_of;fake Maya fresco
+Leonardo Patterson;works_with;Donald Hales
+Leonardo Patterson;works_with;Paul Clifford
+Leonardo Patterson;donates_to;Victoria National Gallery
+Leonardo Patterson;legal_status_change;Clemency Coggins
+Leonardo Patterson;legal_status_change;Ian Graham
+Leonardo Patterson;legal_status_change;Dallas-Fort Worth airport
+Leonardo Patterson;has_possession_of;undeclared Precolumbian figurine
+Leonardo Patterson;has_possession_of;36 endangered sea turtle eggs
+Leonardo Patterson;legal_status_change;Germany
+Leonardo Patterson;sells;fake monumental Olmec head
+Leonardo Patterson;has_possession_of;El Manatí Wooden Olmec Busts
+Museum of Fine ArtsBoston;has_possession_of;November Collection of Maya Pottery
+A small bronze statue of Zeus;comes_from;Rome National Museum of Italy
+A small bronze statue of Zeus;has_possession_of;Sotheby New York
+Sotheby New York;sells;A small bronze statue of Zeus
+The Carabinieri;legal_status_change;A small bronze statue of Zeus
+The purchaser;donates_to;Italy
+A small bronze statue of Zeus;has_possession_of;de Young Museum
+A small bronze statue of Zeus;has_possession_of;Edward H. Merrin
+A small bronze statue of Zeus;has_possession_of;Lawrence and Barbara Fleischman
+A small bronze statue of Zeus;has_possession_of;Fleischman collection
+A small bronze statue of Zeus;has_possession_of;Italy
+Pre- and post-Conquest Aymara sacred textiles;comes_from;village of Coroma
+village of Coroma;is_the_owner_of;q'epis
+Cristina Bubba;works_with;Bolivian National Archives
+Cristina Bubba;works_with;Coroma community
+Bolivian National Archives;works_with;Coroma community
+dealers in Bolivian textiles;obtains_from;Coroma community
+dealers in Bolivian textiles;works_with;intermediaries
+intermediaries;obtains_from;Coroma community
+Smithsonian Institution;has_possession_of;Coroma textiles
+John Murra;works_with;Cristina Bubba
+John Murra;works_with;Coroma community
+Thieves;has_role;Looters
+Thieves;obtains_from;Wang Chuzhi's Tomb
+M&C Gallery of Hong Kong;has_possession_of;Marble relief panel
+M&C Gallery of Hong Kong;sells;Marble relief panel
+Christie's New York;has_possession_of;Marble relief panel
+Christie's New York;sells;Marble relief panel
+US Customs;has_possession_of;Marble relief panel
+US Customs;obtains_from;Christie's New York
+Marble relief panel;comes_from;Wang Chuzhi's Tomb
+Metropolitan Museum of Art;has_possession_of;Moche or Vic√∫s metal objects
+Loma Negra;comes_from;Moche or Vic√∫s metal objects
+Museum of Primitive Art;has_possession_of;Loma Negra objects
+Nelson Rockefeller;donates_to;Museum of Primitive Art
+Michael Rockefeller;donates_to;Museum of Primitive Art
+Museum of Primitive Art;works_for;Julie Jones
+Anne-Louise Schaffer;works_for;Museum of Primitive Art
+Museum of Primitive Art;works_with;Julie Jones
+Anne-Louise Schaffer;works_with;Julie Jones
+Museum of Primitive Art;donates_to;Metropolitan Museum of Art
+Andre Emmerich Gallery;sells;Loma Negra material
+Metropolitan Museum of Art;purchases;Loma Negra material
+Juan Luis Pereira;sells;Loma Negra material
+Leon J. Buki;sells;Loma Negra material
+Alan C. Lapiner;sells;Loma Negra material
+Arnold L. Goldberg;purchases;Loma Negra material
+Jane Costello Goldberg;purchases;Loma Negra material
+Marble head of the Roman emperor Marcus Aurelius;comes_from;N. KoutoulakisParis
+Marble head of the Roman emperor Marcus Aurelius;comes_from;Museum in SkikdaAlgeria
+Christie's New York;has_possession_of;Marble head of the Roman emperor Marcus Aurelius
+US Immigration and Customs Enforcement;has_possession_of;Marble head of the Roman emperor Marcus Aurelius
+US Immigration and Customs Enforcement;donates_to;Algeria
+Interpol;works_with;Art Loss Register
+Interpol;legal_status_change;Marble head of the Roman emperor Marcus Aurelius
+Art Loss Register;legal_status_change;Marble head of the Roman emperor Marcus Aurelius
+Corbridge;has_possession_of;Roman garrison Corbridge
+Corbridge;has_possession_of;Scheduled Monument
+English Heritage;has_possession_of;Corbridge
+English Heritage;works_with;security firm
+Dobinson and Denison;works_with;curatorial staff
+Dobinson and Denison;works_with;English Heritage
+Dobinson and Denison;has_role;researchers
+curatorial staff;has_role;monitors
+police;has_role;law enforcement
+nighthawking;has_role;illegal metal detecting
+Cleveland Museum;has_possession_of;Red-figure duck askos
+Cleveland Museum;has_possession_of;Sicilian plastic vase in the form of a pig
+Cleveland Museum;has_possession_of;Processional Cross
+Cleveland Museum;has_possession_of;Donkey-head rhyton
+Cleveland Museum;has_possession_of;Apulian or Campanian red-figure lid with bowl
+Cleveland Museum;has_possession_of;Apulian Gnathia Flat-Bodied Epichysis
+Cleveland Museum;has_possession_of;Apulian Gnathia round-bellied epichysis
+Cleveland Museum;has_possession_of;Apulian Gnathia lekythos
+Cleveland Museum;has_possession_of;Campanian red-figure acorn lekythos
+Cleveland Museum;has_possession_of;Campanian bird askos
+Cleveland Museum;has_possession_of;Apulian volute-krater
+Cleveland Museum;has_possession_of;Warrior
+Cleveland Museum;has_possession_of;Column krater
+Cleveland Museum;has_possession_of;Braceletpair
+Cleveland Museum;donates_to;Italy
+Italy;donates_to;Cleveland Museum
+Timothy Rub;has_role;museum director
+Suzan Mazur;has_role;journalist
+Cleveland Museum;works_with;Italian Ministry of Culture
+Cleveland Museum;works_with;Italian institution
+Robert Marx;has_possession_of;artefacts from Port Royal
+Robert Marx;works_for;Jamaican government
+Port Royal Museum;has_possession_of;artefacts from Port Royal
+Jamaican National Heritage Trust (JNHT);has_role;archaeological research permission granter
+Philip Mayes;works_for;Jamaican National Trust Commission
+Philip Mayes;works_with;British Ministry of Overseas Development
+Donny Hamilton;works_with;Institute of Nautical ArchaeologyTexas A&M University
+Donny Hamilton;works_with;Jamaican National Heritage Trust
+Jamaican government;legal_status_change;policy on underwater cultural heritage
+Jamaican government;works_with;UNESCO
+Jamaican government;legal_status_change;Convention on the Protection of the Underwater Cultural Heritage
+Jamaican government;has_role;protector of underwater cultural heritage
+Jamaican government;has_role;tourism development planner
+Jamaican government;works_with;experienced archaeologist
+Looters;sells;Mummy of Cerro El Plomo
+Looters;sells;Ritual objects
+Looters;makes_sale_to;Government of Chile
+Museo Nacional de Historia Natural;has_possession_of;Mummy of Cerro El Plomo
+Museo Nacional de Historia Natural;has_possession_of;Ritual objects
+Guillermo Chacón Carrasco;works_with;Luis Gerardo Ríos Barrueto
+Guillermo Chacón Carrasco;works_with;Jaime Ríos Abarca
+Luis Gerardo Ríos Barrueto;works_with;Jaime Ríos Abarca
+Museo Nacional de Historia Natural;works_for;Dr. Grete Mostny
+Museo Nacional de Historia Natural;works_for;Humberto Fuenzalida
+Mummy of Cerro El Plomo;comes_from;Collasuyu
+US federal agents;legal_status_change;two antiquities dealerships
+US federal agents;legal_status_change;four art museums in California
+Robert Olson;is_the_owner_of;Bobbyo Imports
+Jonathan and Cari Markell;is_the_owner_of;Silk Roads Gallery
+Los Angeles County Museum of Art (LACMA);has_possession_of;illegally exported archaeological artefacts
+Bowers Museum;has_possession_of;illegally exported archaeological artefacts
+Pacific Asia Museum (PAM);has_possession_of;illegally exported archaeological artefacts
+Mingei International Museum;has_possession_of;illegally exported archaeological artefacts
+Internal Revenue Service;works_with;Immigration and Customs Enforcement (ICE)
+Robert Olson;obtains_from;illegal diggers in Thailand
+Robert Olson;sells;Ban Chiang pottery
+Robert Olson;sells;Barry MacLean
+Robert Olson;works_with;Jonathan and Cari Markell
+Robert Olson;works_with;Joel Malter
+Jonathan and Cari Markell;works_with;Roxanna Brown
+Jonathan and Cari Markell;donates_to;Los Angeles County Museum of Art (LACMA)
+Barry MacLean;purchases;artefacts from Robert Olson
+Roxanna Brown;works_with;Jonathan and Cari Markell
+Roxanna Brown;legal_status_change;US federal agents
+Classic Maya stone sculpture;comes_from;CancúnGuatemala
+Classic Maya stone sculpture;has_possession_of;Guatemalan Ministry of Culture
+Arthur Demarest;works_with;Vanderbilt University
+Arthur Demarest;works_with;Universidád del Valle
+Arthur Demarest;works_with;Guatemalan Ministry of Culture
+Arthur Demarest;works_with;Marc Wolf
+Arthur Demarest;works_with;Servícios de Investigación Criminal
+Unnamed antiquities dealer;has_possession_of;ballcourt marker
+Unnamed antiquities dealer;obtains_from;looters
+Unnamed antiquities dealer;sells;ballcourt marker
+National Museum of Archaeology in Guatemala City;has_possession_of;ballcourt marker
+National Museum of Archaeology in Guatemala City;has_possession_of;Cancún Panel
+Private collector;has_possession_of;hieroglyphic limestone panel
+Private collector;purchases;hieroglyphic limestone panel
+Private collector;buys_from;art dealers
+Three looters;legal_status_change;Guatemalan Ministry of Culture
+J. Paul Getty Museum;has_possession_of;Fifth-century BC Attic red-figured kylix
+J. Paul Getty Museum;has_possession_of;Torso of a second-century AD statue of the god Mithra
+J. Paul Getty Museum;has_possession_of;Second-century AD copy of a head of Diadoumenos by Polykleitos
+J. Paul Getty Museum;purchases;Fifth-century BC Attic red-figured kylix
+J. Paul Getty Museum;purchases;Torso of a second-century AD statue of the god Mithra
+J. Paul Getty Museum;purchases;Second-century AD copy of a head of Diadoumenos by Polykleitos
+J. Paul Getty Museum;buys_from;Frieda Tchacos of Galerie Nefer
+Frieda Tchacos;buys_from;Nino Savoca of Munich
+Fifth-century BC Attic red-figured kylix;comes_from;Schweitzer collection of Arlesheim
+Fifth-century BC Attic red-figured kylix;comes_from;Geneva Hydra Gallery
+Geneva Hydra Gallery;is_the_owner_of;Christian Boursaud
+Geneva Hydra Gallery;works_with;Giacomo Medici
+Metropolitan Museum;donates_to;J. Paul Getty Museum
+Dietrich von Bothmer;obtains_from;Robert Hecht
+Giacomo Medici;has_possession_of;Photograph of missing fragment of kylix
+Carabinieri;legal_status_change;Giacomo Medici
+Maria Rizzo;has_role;Archaeologist
+Marion True;has_role;Getty curator
+Torso of a second-century AD statue of the god Mithra;comes_from;Giustiniani Collection
+Second-century AD copy of a head of Diadoumenos by Polykleitos;comes_from;Official excavation storeroom at Venosa 
+George Ortiz;has_possession_of;five elaborately carved panels
+Sotheby's;has_possession_of;five elaborately carved panels
+Government of New Zealand;legal_status_change;five elaborately carved panels
+George Ortiz;has_immediate_family_member;Graziella Ortiz
+Government of New Zealand;works_with;Te Papa
+Te Papa;has_possession_of;five elaborately carved panels
+Government of New Zealand;purchases;five elaborately carved panels
+Government of New Zealand;purchases;Ortiz family
+Te Papa;donates_to;Te Āti Awa iwi
+Te Āti Awa iwi;has_possession_of;five elaborately carved panels
+Te Āti Awa iwi;works_with;Puke Ariki Museum
+Puke Ariki Museum;has_possession_of;five elaborately carved panels
+Fano Bronze;has_possession_of;J. Paul Getty Museum
+Fano Bronze;comes_from;Greece
+Fano Bronze;comes_from;Italy
+Fishing boat crew;sells;Fano Bronze
+Fishing boat crew;makes_sale_to;Giacomo Barbetti
+Giacomo Barbetti;works_with;Giovanni Nagni
+Artemis;obtains_from;Giacomo Barbetti
+Artemis;is_the_owner_of;Fano Bronze
+Heinz Herzer;works_with;Artemis
+Bernard Ashmole;works_for;British Museum
+J. Paul Getty Museum;purchases;Fano Bronze
+Giacomo Barbetti;legal_status_change;Italian state
+Giovanni Nagni;legal_status_change;Italian state
+Looters;has_possession_of;Garland Sarcophagus
+Edip Telli;has_possession_of;Garland Sarcophagus
+Edip Telli;sells;Garland Sarcophagus
+Edip Telli;makes_sale_to;Damon Mezzacappa
+Damon Mezzacappa;has_possession_of;Garland Sarcophagus
+Brooklyn Museum;has_possession_of;Garland Sarcophagus
+Damon Mezzacappa;donates_to;American-Turkish Society
+American-Turkish Society;donates_to;Turkey
+Turkey;has_possession_of;Garland Sarcophagus
+Istanbul Archaeology Museum;has_possession_of;Garland Sarcophagus
+Antalya Museum;has_possession_of;Garland Sarcophagus
+Edip Telli;legal_status_change;Sentenced to ten years in prison in Turkey
+Zeugma;has_possession_of;Provinces mosaic
+Gaziantep Museum;has_possession_of;repatriated objects from Zeugma
+Menil Collection;has_possession_of;sections of a mosaic floor from Zeugma
+Rice University;has_possession_of;sections of a mosaic floor from Zeugma
+Bowling Green State University;has_possession_of;mosaics from Zeugma
+Gaziantep Museum;has_possession_of;central panel of a mosaic from Zeugma
+Menil Collection;has_possession_of;central panel of a mosaic from Zeugma
+Northumberland National Park Voluntary Ranger patrol;legal_status_change;Yeavering Bell
+Yeavering Bell;comes_from;first millennium BC
+Yeavering Bell;comes_from;Anglo-Saxon palace site of Ad Gefrin
+Northumberland National Park;works_with;local landowners
+Northumberland National Park;has_possession_of;Yeavering Bell
+Lord Anthony Hill;is_the_owner_of;Yeavering Bell
+Yeavering Bell;legal_status_change;Dealing in Cultural Objects (Offences) Bill
+Richard Allan;has_role;Member of Parliament
+Dealing in Cultural Objects (Offences) Bill;legal_status_change;Dealing in Cultural Objects (Offences) Act 2003
+Classic Maya funerary mask;comes_from;Río Azul
+Classic Maya funerary mask;has_possession_of;Peter G. Wray
+Peter G. Wray;makes_sale_to;Andre Emmerich's New York Gallery
+Andre Emmerich's New York Gallery;sells;Classic Maya funerary mask
+Río Azul tripod vase;comes_from;Río Azul
+Río Azul tripod vase;has_possession_of;Detroit Institute of Art
+Classic Maya funerary mask;has_possession_of;Barbier-Mueller Pre-Columbian Art Museum
+Government of Guatemala;legal_status_change;Classic Maya funerary mask
+Government of Guatemala;legal_status_change;Barbier-Mueller Pre-Columbian Art Museum
+Classic Maya funerary mask;has_possession_of;Barbier-Mueller collection
+Classic Maya funerary mask;comes_from;Tomb 1 at Río Azul
+Classic Maya funerary mask;comes_from;Guatemala
+Classic Maya funerary mask;has_role;Death mask of a lord
+Classic Maya funerary mask;has_role;Depiction of Kinich Ahawthe sun god
+Classic Maya funerary mask;has_role;Artefact with inscription of Río Azul ruler
+Classic Maya funerary mask;has_role;Artefact with emblem glyph of Río Azul
+Classic Maya funerary mask;has_role;Artefact with name of Zak Balam
+Classic Maya funerary mask;has_role;Artefact with name of Ruler X or Governor X
+Classic Maya funerary mask;has_role;Artefact with date 26 March 393 AD
+Classic Maya funerary mask;has_role;Artefact with date 9 September 417 AD
+Classic Maya funerary mask;has_role;Artefact with water/swamp mythology iconography
+Classic Maya funerary mask;has_role;Artefact with symbolic birth of individual interred
+Classic Maya funerary mask;has_role;Artefact with symbolic death of individual interred
+Classic Maya funerary mask;has_role;Artefact with inscription of Balam
+Classic Maya funerary mask;has_role;Artefact with inscription of Stela 1
+Classic Maya funerary mask;has_role;Artefact with inscription of Tomb 1
+Classic Maya funerary mask;has_role;Artefact with inscription of elite tomb
+Classic Maya funerary mask;has_role;Artefact with inscription of Maya funerary context
+Classic Maya funerary mask;has_role;Artefact with inscription of Pakal of Palenque
+Classic Maya funerary mask;has_role;Artefact with inscription of Richard
+Classic Maya funerary mask;has_role;Artefact with inscription of Ian Graham
+Classic Maya funerary mask;has_role;Artefact with inscription of Article 1 of Decreto No 425
+Neil Kingsbury;sells;ancient Egyptian artefacts
+Neil Kingsbury;works_with;Christie's
+Neil Kingsbury;works_with;Bonhams
+Christie's;has_possession_of;six pieces consigned by Neil Kingsbury
+British Museum curator;has_role;curator
+red granite relief fragment;comes_from;temple of Amenhotep III
+Neil Kingsbury;sells;five pieces at Bonhams
+Neil Kingsbury;sells;eight pieces at Christie's
+Neil Kingsbury;legal_status_change;fined and ordered to pay costs 
+Machaquilà Stela 2;comes_from;Machaquilà
+Jorge Alamilla;buys_from;Looters
+Jorge Alamilla;sells;Machaquilà Stela 2
+Ed Dwyer;has_possession_of;Machaquilà Stela 2
+Johnnie Brown Fell;has_possession_of;Machaquilà Stela 2
+Harry Brown;has_possession_of;Machaquilà Stela 2
+Clive Hollinshead;has_possession_of;Machaquilà Stela 2
+Johnnie Brown Fell;sells;Machaquilà Stela 2
+Ed Dwyer;sells;Machaquilà Stela 2
+Clive Hollinshead;legal_status_change;Federal Grand Jury
+Jorge Alamilla;legal_status_change;Federal Grand Jury
+Johnnie Brown Fell;legal_status_change;Federal Grand Jury
+Clive Hollinshead;works_with;Jorge Alamilla
+Clive Hollinshead;works_with;Unnamed Guatemalan Officials
+Harry Brown;has_possession_of;Machaquilà Stela 5
+FBI;has_possession_of;Machaquilà Stela 5
+Machaquilà Stela 2;donates_to;Guatemala
+Machaquilà Stela 5;donates_to;Guatemala 
+A Nahuatl Codex;comes_from;Mexico
+A Nahuatl Codex;has_possession_of;Bibliothèque Nationale de Paris
+José Luis Castañeda del Valle;donates_to;Biblioteca del Instituto Nacional de Antropología e Historia
+A Nahuatl Codex;comes_from;Tlaxcala
+Lorenzo Boturini Benaduci;has_possession_of;A Nahuatl Codex
+Local colonial government;has_possession_of;A Nahuatl Codex
+Antonio de León y Gama;has_possession_of;A Nahuatl Codex
+Carl Nebel;purchases;A Nahuatl Codex
+Jean-Frédéric Waldek;purchases;A Nahuatl Codex
+Joseph Marius Alexis Aubin;purchases;A Nahuatl Codex
+Charles Eugène Espidon Goupil;purchases;A Nahuatl Codex
+Charles Eugène Espidon Goupil's widow;donates_to;Bibliothèque Nationale de Paris
+José Luis Castañeda del Valle;legal_status_change;Mexican Attorney General's office
+A Nahuatl Codex;has_possession_of;Biblioteca del Instituto Nacional de Antropología e Historia 
+Peruvian tombs;comes_from;Masterful funerary textiles
+Paracas Culture;comes_from;Paracas Peninsula
+Julio Tello;works_with;Toribio Mejía Xesspe
+Julio Tello;has_possession_of;429 mummy bundles
+Paracas Necropolis;comes_from;429 mummy bundles
+Paracas Necropolis;comes_from;Paracas textiles
+Sven Karell;has_role;Swedish Consul in Peru
+Sven Karell;obtains_from;Paracas textiles
+Museum of World Culture in Göteborg;has_possession_of;Paracas textile collection
+Alan Garcia;has_role;President of Peru
+Alan Garcia;legal_status_change;Museum of World Culture in Göteborg
+National Gallery of Australia;has_possession_of;Paracas Mantle
+National Gallery of Australia;obtains_from;Peru's national museum
+Christie's New York;has_possession_of;Late Period Egyptian granite relief
+Christine Favard-Meeks;has_role;Egyptologist
+Late Period Egyptian granite relief;comes_from;Temple of Isis at Behbeit el-Hagar
+Temple of Isis at Behbeit el-Hagar;has_role;Built during the reign of Pharaoh Nectanebo II
+US Customs and Immigration Enforcement (ICE);obtains_from;Christie's
+US Customs and Immigration Enforcement (ICE);donates_to;Egypt
+James Stewart;obtains_from;Peter Byrne
+George Agogino;has_possession_of;Pangboche finger
+Royal College of Surgeons' Hunterian Museum;has_possession_of;Pangboche finger
+Mike Allsop;works_with;Weta Workshop
+Weta Workshop;donates_to;Pangboche Monastery
+Mike Allsop;has_role;Return the Hand
+Egyptian artefacts;comes_from;Bijbels Museum in Amsterdam
+Bijbels Museum in Amsterdam;has_possession_of;Egyptian artefacts
+Christie's New York;has_possession_of;Egyptian artefacts
+US Immigration and Customs Enforcement;legal_status_change;Egyptian artefacts
+Christie's New York Antiquities auction catalogue;has_possession_of;Egyptian artefacts 
+Christie's New York;has_possession_of;Neo-Assyrian gold earrings
+Christie's New York;works_with;FBI
+FBI;works_with;Iraqi experts
+Neo-Assyrian gold earrings;comes_from;'Nimrud' treasure
+'Nimrud' treasure;comes_from;official excavation of two royal tombs underneath the palace of Ashurnasirpal II
+Looters;has_possession_of;Heads of two mummies
+Looters;has_possession_of;Statue of the pharaoh Akhenaten
+Looters;has_possession_of;Part of a brokenwooden sarcophagus
+Supreme Council of Antiquities;works_with;Egyptian Museum
+Ban Chiang;has_possession_of;archaeological site
+Thai Fine Arts Department;works_with;University of Pennsylvania Museum
+villagers;sells;red-on-buff decorated pottery
+local farmers;sells;finds
+local farmers;has_possession_of;finds
+Thai government;legal_status_change;Ban Chiang pottery
+University of Pennsylvania archaeologist Chester Gorman;works_with;Ban Chiang
+Ban Chiang;comes_from;UNESCO World Heritage List
+US federal agents;legal_status_change;dealers and museums in southern California
+dealers and museums in southern California;has_possession_of;illegally-exported Ban Chiang pottery 
+Lord Alistair McAlpine;works_with;British Museum
+Lord Alistair McAlpine;sells;twenty-two miniature bronze shields
+British Museum;purchases;twenty-two miniature bronze shields
+David Keys;works_with;Ian Stead
+James Garriock;has_role;finder
+James Garriock;works_with;Terry Rossiter
+James Garriock;sells;Salisbury artefacts
+John Cummings;purchases;Salisbury artefacts
+John Cummings;works_with;James Garriock
+Lord Alistair McAlpine;obtains_from;John Cummings
+Lord Alistair McAlpine;sells;Salisbury artefacts
+Christie's;has_possession_of;Salisbury artefacts
+Devizes Museum;purchases;Salisbury artefacts
+Lord Alistair McAlpine;legal_status_change;British Museum
+British Museum;purchases;Salisbury artefacts
+Ian Stead;has_role;author
+Ian Stead;has_role;archaeologist
+Phoenix Ancient Art;has_possession_of;South Arabian Alabaster Stele
+South Arabian Alabaster Stele;comes_from;Aden Museum
+US Immigration and Customs Enforcement;has_possession_of;South Arabian Alabaster Stele
+Hoi An shipwreck;has_possession_of;antique ceramics
+Captain Trang;sells;antique ceramics
+antique dealer in Hoi An;buys_from;Captain Trang
+two Japanese dealers;legal_status_change;Vietnamese authorities
+Ong Soo Hin;is_the_owner_of;Saga Horizon
+Saga Horizon;works_with;Vietnamese Salvage Agency (VISAL)
+Ong Soo Hin;works_with;Mensun Bound
+Saga Horizon;has_possession_of;Hoi An shipwreck ceramics
+Vietnamese museums;has_possession_of;unique pieces of ceramics
+Vietnamese government;sells;Hoi An shipwreck ceramics
+Saga Horizon;sells;Hoi An shipwreck ceramics
+Ong Soo Hin;works_with;Butterfields
+Butterfields;is_the_owner_of;eBay
+Butterfields;makes_sale_to;British Museum
+Butterfields;makes_sale_to;Art Gallery of New South Wales
+Gianfranco Becchina;has_role;Italian antiquities dealer
+Gianfranco Becchina;legal_status_change;convicted in Italy of illegally dealing in antiquities
+Gianfranco Becchina;has_possession_of;Becchina premises in BaselSwitzerland
+Gianfranco Becchina;sells;material to major museums including the Ashmoleanthe Louvrethe Boston Museum of Fine Artsthe Metropolitan Museumthe Princeton University Art Museumthe Toledo Museum of Art and the J. Paul Getty Museum
+Gianfranco Becchina;sells;material to collector George Ortiz
+Gianfranco Becchina;sells;material to collectors Leon Levy and Shelby White
+Gianfranco Becchina;sells;material to the Merrin Gallery in New York
+Gianfranco Becchina;sells;material to Japanese antiquities dealer Noriyoshi Horiuchi
+Gianfranco Becchina;sells;'fragments' to Dietrich von Bothmer of the Metropolitan Museum of Art
+Gianfranco Becchina;works_with;fellow dealers Mario Bruno and Elie Borowsky
+Gianfranco Becchina;sells;material through Sotheby's and Christie's auction houses in London
+Pasqale Camera;legal_status_change;under investigation for illegal dealing in antiquities
+J. Paul Getty Museum;has_possession_of;Paestan red-figure krater attributed to Asteas
+J. Paul Getty Museum;obtains_from;Gianfranco Becchina
+Robert Hecht;obtains_from;Asteas
+Raffaele Monticelli;sells;material to Asteas
+Raffaele Monticelli;legal_status_change;sentenced to four years in prison in 2002
+Gianfranco Becchina;has_immediate_family_member;Rosie (wife)
+Rosie;has_possession_of;Becchina's business in Basel
+Carabinieri;works_with;Swiss police
+Gianfranco Becchina;legal_status_change;convicted in Rome of illegally dealing in antiquities in February 2011
+Christie's New York auction house;has_possession_of;two ceramic vessels and a marble janiform head
+two ceramic vessels and a marble janiform head;comes_from;Beverly Hills Gallery}}]}
+Treasure hunters;obtains_from;Placeres site
+Everett Rassiga;works_with;Treasure hunters
+Everett Rassiga;obtains_from;Treasure hunters
+Everett Rassiga;sells;Metropolitan Museum of Art
+Everett Rassiga;makes_sale_to;Metropolitan Museum of Art
+Thomas Hoving;works_for;Metropolitan Museum of Art
+Joseph Veach Noble;works_for;Metropolitan Museum of Art
+Dr Ignacio Bernal;works_for;National Museum of Anthropology
+Everett Rassiga;legal_status_change;Mexican authorities
+Stucco facade;comes_from;Placeres site
+Stucco facade;has_possession_of;National Museum of Anthropology 
+Ian Graham;visited;Ixkun
+Atlas Arqueológico de Guatemala;has_possession_of;Stela 5 fragments
+Museo Nacional de Arqueología y Etnología;has_possession_of;Stela 5 fragment
+Colonel Modesto Mendez;visited;Ixkun
+Eusebio Lara;visited;Ixkun
+Alfred Maudslay;visited;Ixkun
+Sylvanus Morley;visited;Ixkun
+Herbert Spindon;visited;Ixkun
+Dos Cabezas;comes_from;Moche culture
+Christopher Donnan;has_role;archaeologist
+Christopher Donnan;works_for;UCLA
+Christopher Donnan;works_with;archaeological team
+Fernando Isla Merino;has_role;deputy mayor
+Steve Bourget;has_role;archaeologist
+Steve Bourget;donates_to;Dos Cabezas
+Anton Roeckl;has_role;collector
+Anton Roeckl;legal_status_change;Peru
+Dos Cabezas;has_possession_of;gold and silver objects
+Dos Cabezas;has_possession_of;Moche tombs
+Departamento de Monumentos Arqueológicos;has_role;archaeologists
+Dirección Regional de Cultura;has_role;experts
+Anton Roeckl;obtains_from;Dos Cabezas
+Anton Roeckl;obtains_from;La Mina 
+John Bourne;donates_to;New Mexico History Museum
+John Bourne;purchases;Ben Johnson
+Ben Johnson;obtains_from;David Swetnam
+David Swetnam;works_with;Michael Kelly
+John Bourne;has_possession_of;Bourne Collection
+Bourne Collection;comes_from;Sipàn
+FBI;legal_status_change;Bourne Collection
+New Mexico History Museum;has_possession_of;Monkey Head Bead
+John Bourne;donates_to;Walters Art Museum
+Grolier Codex;has_possession_of;Museo Nacional de Antropología
+Dr. Josué Saenz;purchases;Grolier Codex
+Dr. Josué Saenz;obtains_from;Unnamed looters
+Dr. Josué Saenz;donates_to;Mexican Government
+Grolier Codex;comes_from;Dry cave in the Sierra de Chiapas
+Metropolitan Museum of Art;purchases;Euphronios (Sarpedon) krater
+Metropolitan Museum of Art;has_possession_of;Euphronios (Sarpedon) krater
+tombaroli;sells;Euphronios (Sarpedon) krater
+tombaroli;works_with;Giacomo Medici
+Robert Hecht;sells;Euphronios (Sarpedon) krater
+Robert Hecht;works_with;Fritz Bürki
+Robert Hecht;makes_sale_to;Metropolitan Museum of Art
+Metropolitan Museum of Art;works_with;Sotheby's
+Robert Hecht;works_with;Dikran Sarrafian
+Metropolitan Museum of Art;works_with;Dikran Sarrafian
+Metropolitan Museum of Art;legal_status_change;Euphronios (Sarpedon) krater
+Leon Levy;works_with;Shelby White
+Giacomo Medici;legal_status_change;Euphronios (Sarpedon) krater
+Robert Hecht;legal_status_change;Euphronios (Sarpedon) krater
+Marion True;works_with;J. Paul Getty Museum
+Metropolitan Museum of Art;works_with;Philipe de Montebello
+Metropolitan Museum of Art;donates_to;Villa Giulia 
+Michael Webb;has_immediate_family_member;Michael Webb son
+Michael Webb;has_possession_of;Derrynaflan Hoard
+Michael Webb son;has_possession_of;Derrynaflan Hoard
+Michael Webb;works_with;Michael Webb son
+Dr. Elizabeth Shee Twohig;works_for;University College Cork
+Michael Webb;donates_to;National Museum of Ireland
+Michael Webb son;donates_to;National Museum of Ireland
+Derrynaflan Hoard;comes_from;Derrynaflan Lurgoe County Tipperary
+Derrynaflan Hoard;has_possession_of;National Museum of Ireland
+National Museum of Ireland;has_possession_of;Derrynaflan Hoard
+Ireland;legal_status_change;Derrynaflan Hoard
+Ireland;legal_status_change;National Monuments (Amendment) Act 1987
+Ireland;legal_status_change;National Monuments (Amendment) Act 1994
