@@ -44,14 +44,14 @@ class Relation(BaseModel):
 
 class Triplet(BaseModel):
     """Triplet schema to represent entity-relation-entity structure"""
-    entity1: Entity = Field(description="The first entity in the triplet.")
-    relation: Relation = Field(description="The relation connecting the first and second entities.")
-    entity2: Entity = Field(description="The second entity in the triplet.")
+    entity1: Entity = Field(description="The SUBJECT entity in the triplet.")
+    relation: Relation = Field(description="The relation PREDICATE connecting the first and second entities.")
+    entity2: Entity = Field(description="The OBJECT entity in the triplet.")
 
 
 class CulturalHeritageSchema(BaseModel):
     """Cultural Heritage Schema"""
     triplets: List[Triplet] = Field(
-        description=("A list of triplets, where each triplet consists of two entities and the relation between them. "
+        description=("A list of triplets, in grammatical subject - predicate - object order, where each triplet consists of two entities and the relation between them. "
                      "Triplets capture the structured relationships within the cultural heritage domain.")
     )
