@@ -6,7 +6,7 @@ DEFAULT_BASE_PROMPT = """
 Extract information regarding cultural heritage crime from the following text.
 
 In particular, please provide the following information:
-- A list of triplets, where each triplet consists of two entities and the relation between them. Only use the predefined relations listed below and provide detailed descriptions for each entity.
+- A list of triplets, where each triplet consists of two entities and the relation between them in grammatical subject - predicate - object order. Only use the predefined relations listed below and provide detailed descriptions for each entity.
 
 The predefined relations are:
 - 'is_the_owner_of': Denotes a business relationship where an actor controls, or is the legal owner of, a business, gallery, auction house, or other for-profit organization.
