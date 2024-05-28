@@ -1466,9 +1466,9 @@ source;relationship;target
 'Metropolitan Museum of Art';'has_possession_of';'Madonna and Child Seated on Clouds (recto), Madonna and Child with St. John the Baptist (verso)'
 'Vicente Salvador Gómez';'has_role';'Artist'
 'Madonna and Child Seated on Clouds (recto), Madonna and Child with St. John the Baptist (verso)';'comes_from';'Vicente Salvador Gómez'
-'Harry G. Sperling';'has_possession_of';'Head of a Woman (recto); Head of a Child, Study of a Hand'
-'Metropolitan Museum of Art';'has_possession_of';'Head of a Woman (recto); Head of a Child, Study of a Hand'
-'Alessandro Maggiori';'has_possession_of';'Head of a Woman (recto); Head of a Child, Study of a Hand'
+'Harry G. Sperling';'has_possession_of';'Head of a Woman (recto) Head of a Child, Study of a Hand'
+'Metropolitan Museum of Art';'has_possession_of';'Head of a Woman (recto) Head of a Child, Study of a Hand'
+'Alessandro Maggiori';'has_possession_of';'Head of a Woman (recto) Head of a Child, Study of a Hand'
 'Flying Putto';'comes_from';'Alessandro Maggiori'
 'Flying Putto';'comes_from';'Harry G. Sperling'
 'Metropolitan Museum of Art';'has_possession_of';'Flying Putto'
@@ -1728,10 +1728,12 @@ source;relationship;target
 'John J. Klejman';'sells';'Plate'
 'Metropolitan Museum of Art';'purchases';'Plate'
 'Plate';'comes_from';'first half 18th century'
-'Harry G. Sperling';'has_possession_of';"Henri Manuel | Sarah Bernhardt dans'Angelo', Mars 1905'Harry G. Sperling';'donates_to';'Metropolitan Museum of Art'
+'Harry G. Sperling';'has_possession_of';"Henri Manuel | Sarah Bernhardt dans'Angelo', Mars 1905"
+'Harry G. Sperling';'donates_to';'Metropolitan Museum of Art'
 "Henri Manuel | Sarah Bernhardt dans'Angelo', Mars 1905";'comes_from';'Estate of Harry G. Sperling'
 'Henri Manuel';'has_role';'Artist'
-'Metropolitan Museum of Art';'has_possession_of';"Henri Manuel | Sarah Bernhardt dans'Angelo', Mars 1905'Mr. and Mrs. Charles Wrightsman';'donates_to';'Metropolitan Museum of Art'
+'Metropolitan Museum of Art';'has_possession_of';"Henri Manuel | Sarah Bernhardt dans'Angelo', Mars 1905"
+'Mr. and Mrs. Charles Wrightsman';'donates_to';'Metropolitan Museum of Art'
 'Pair of three-light wall brackets';'comes_from';'J. Guedes de Souza, Lisbon, Portugal'
 'Pair of three-light wall brackets';'comes_from';'J. J. Klejman'
 'Metropolitan Museum of Art';'has_possession_of';'Pair of three-light wall brackets'
@@ -1966,7 +1968,11 @@ source;relationship;target
 'Metropolitan Museum of Art';'has_possession_of';'Wellhead'
 'Buddhist Temple Painting';'comes_from';'Thailand'
 'Metropolitan Museum of Art';'has_possession_of';'Buddhist Temple Painting'
-'Francis Harvey';'sells';"West Loo, Cornwall, from'Sketches from Nature''C. W. Dyson Perrins';'has_possession_of';"West Loo, Cornwall, from'Sketches from Nature''The Elisha Whittelsey Collection';'has_possession_of';"West Loo, Cornwall, from'Sketches from Nature''Metropolitan Museum of Art';'has_possession_of';"West Loo, Cornwall, from'Sketches from Nature''Sketches from Nature''comes_from';'Thomas Rowlandson'
+'Francis Harvey';'sells';"West Loo, Cornwall, from'Sketches from Nature'"
+'C. W. Dyson Perrins';'has_possession_of';"West Loo, Cornwall, from'Sketches from Nature'"
+'The Elisha Whittelsey Collection';'has_possession_of';"West Loo, Cornwall, from'Sketches from Nature'"
+'Metropolitan Museum of Art';'has_possession_of';"West Loo, Cornwall, from'Sketches from Nature'"
+'Sketches from Nature''comes_from';'Thomas Rowlandson'
 'Norbert Schimmel';'purchases';'Stag figure'
 'Norbert Schimmel';'buys_from';'John Klejman'
 'Norbert Schimmel';'donates_to';'Metropolitan Museum of Art'
@@ -2087,7 +2093,11 @@ source;relationship;target
 'Brummer';'sells';'Saint Michael'
 'Michelle Schutz';'sells';'Saint Michael'
 'Carle (Charles André) Vanloo';'has_role';'Artist'
-'Harris Brisbane Dick Fund';'purchases';"An'Académie': One Man Lifting the Legs of Another'Metropolitan Museum of Art';'has_possession_of';"An'Académie': One Man Lifting the Legs of Another'Princes of Liechtenstein';'has_possession_of';"An'Académie': One Man Lifting the Legs of Another'P. & D. Colnaghi & Co.';'sells';"An'Académie': One Man Lifting the Legs of Another'Académie': One Man Lifting the Legs of Another'comes_from';'Princes of Liechtenstein'
+'Harris Brisbane Dick Fund';'purchases';"An'Académie': One Man Lifting the Legs of Another"
+'Metropolitan Museum of Art';'has_possession_of';"An'Académie': One Man Lifting the Legs of Another"
+'Princes of Liechtenstein';'has_possession_of';"An'Académie': One Man Lifting the Legs of Another"
+'P. & D. Colnaghi & Co.';'sells';"An'Académie': One Man Lifting the Legs of Another"
+"An 'Académie': One Man Lifting the Legs of Another";'comes_from';'Princes of Liechtenstein'
 'Harris Brisbane Dick Fund';'is_the_owner_of';'Frontispiece: Six Figures Académiques'
 'Princes of Liechtenstein';'has_possession_of';'Frontispiece: Six Figures Académiques'
 'P. & D. Colnaghi & Co.';'sells';'Frontispiece: Six Figures Académiques'
@@ -2103,7 +2113,9 @@ source;relationship;target
 'Metropolitan Museum of Art';'has_possession_of';'Plaque from a Reliquary Shrine'
 'Nimbus';'comes_from';'Shrine of St. Albinus, Paul Be...'
 'Metropolitan Museum of Art';'has_possession_of';'Nimbus'
-'Metropolitan Museum of Art';'has_possession_of';"Nouveau Theatre de la Grande Bretagne: Ou Description Exacte des Palais, Maisons de Plaisance, & de Tout ce Qu'il y a de Plus Remarquable dans la Grande Bretagne'Ogden Codman, Jr. (American)';'has_possession_of';"Nouveau Theatre de la Grande Bretagne: Ou Description Exacte des Palais, Maisons de Plaisance, & de Tout ce Qu'il y a de Plus Remarquable dans la Grande Bretagne'il y a de Plus Remarquable dans la Grande Bretagne'comes_from';'Johannes Kip'
+'Metropolitan Museum of Art';'has_possession_of';"Nouveau Theatre de la Grande Bretagne: Ou Description Exacte des Palais, Maisons de Plaisance, & de Tout ce Qu'il y a de Plus Remarquable dans la Grande Bretagne"
+'Ogden Codman, Jr. (American)';'has_possession_of';"Nouveau Theatre de la Grande Bretagne: Ou Description Exacte des Palais, Maisons de Plaisance, & de Tout ce Qu'il y a de Plus Remarquable dans la Grande Bretagne"
+"Nouveau Theatre de la Grande Bretagne: Ou Description Exacte des Palais, Maisons de Plaisance, & de Tout ce Qu'il y a de Plus Remarquable dans la Grande Bretagne";'comes_from';'Johannes Kip'
 'Thelma Chrysler Foy';'donates_to';'Metropolitan Museum of Art'
 'Metropolitan Museum of Art';'has_possession_of';'The Actor'
 'Frank Burty Haviland';'has_possession_of';'The Actor'
@@ -2670,10 +2682,10 @@ source;relationship;target
 'Terracotta statuette of a seated woman';'comes_from';'neighborhood of Corinth, Greece'
 'Metropolitan Museum of Art';'has_possession_of';'Terracotta statuette of a seated woman'
 'Rogers Fund';'purchases';'Terracotta statuette of a seated woman'
-"Sculptor's Trial Piece showing the lower part of a male figure
-";'comes_from';'ca. 1353–1336 B.C.'
+"Sculptor's Trial Piece showing the lower part of a male figure";'comes_from';'ca. 1353–1336 B.C.'
 "Sculptor's Trial Piece showing the lower part of a male figure";'comes_from';'Excavated at Amarna by Petrie and Carter 1891-92'
-'Metropolitan Museum of Art';'has_possession_of';"Sculptor's Trial Piece showing the lower part of a male figure'Metropolitan Museum of Art';'obtains_from';'Rogers Fund, 1922'
+'Metropolitan Museum of Art';'has_possession_of';"Sculptor's Trial Piece showing the lower part of a male figure"
+'Metropolitan Museum of Art';'obtains_from';'Rogers Fund, 1922'
 "Sculptor's Trial Piece showing the lower part of a seated figure";'comes_from';'ca. 1353–1336 B.C.'
 'Metropolitan Museum of Art';'has_possession_of';"Sculptor's Trial Piece showing the lower part of a seated figure"
 'Metropolitan Museum of Art';'obtains_from';'Excavated at Amarna by Petrie and Carter 1891-92'
@@ -2684,12 +2696,14 @@ source;relationship;target
 "Sculptor's Trial Piece showing a Princess";'comes_from';'Amarna'
 "Sculptor's Trial Piece showing a Princess";'has_possession_of';'Metropolitan Museum of Art'
 "Sculptor's Trial Piece showing Upper Part of a Male Figure";'comes_from';'Amarna'
-'Metropolitan Museum of Art';'has_possession_of';"Sculptor's Trial Piece showing Upper Part of a Male Figure'Metropolitan Museum of Art';'obtains_from';'Petrie and Carter'
+'Metropolitan Museum of Art';'has_possession_of';"Sculptor's Trial Piece showing Upper Part of a Male Figure"
+'Metropolitan Museum of Art';'obtains_from';'Petrie and Carter'
 'Metropolitan Museum of Art';'obtains_from';'Rogers Fund'
 "Sculptor's Trial Piece showing an old man and a youth";'comes_from';'ca. 1352–1336 B.C.'
 "Sculptor's Trial Piece showing an old man and a youth";'has_possession_of';'Metropolitan Museum of Art'
 'Metropolitan Museum of Art';'obtains_from';'Excavated at Amarna by Petrie and Carter 1891-1892'
-'Metropolitan Museum of Art';'purchases';"Sculptor's Trial Piece showing an old man and a youth'Metropolitan Museum of Art';'has_role';'Rogers Fund'
+'Metropolitan Museum of Art';'purchases';"Sculptor's Trial Piece showing an old man and a youth"
+'Metropolitan Museum of Art';'has_role';'Rogers Fund'
 "Sculptor's Trial Piece showing the lower part of a male figure";'comes_from';'Excavated at Amarna by Petrie and Carter 1891-92'
 'Metropolitan Museum of Art';'has_possession_of';"Sculptor's Trial Piece showing the lower part of a male figure"
 'Joseph Brummer';'has_possession_of';'Terracotta female figure'
