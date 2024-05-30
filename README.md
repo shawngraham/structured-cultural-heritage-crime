@@ -1,6 +1,13 @@
 **SG**
 I modified this to use the schema developed from the other experiment. Modified this to call openai instead of mistral. Upload case studies where one txt file = one case study. You need an openai key. Haven't tested it with other models; see langchain for possibilities.
 
+The [structured_attempt](structured_attempt.ipynb) notebook contains a workflow for taking unstructured information about antiquities or art trade and rendering it into a knowledge graph according to a predefined schema. It can use a variety of LLM via the langchain library to handle the natural language processing, and it uses pydantic and enum libraries to handle the validation. This means that most of the time, the entity names and predicates (relationships) are consistent.
+
+That is to say, you'll usually get 'J. Paul Getty Museum' rather than several variations ('the Getty'; 'Getty Museum' etc) and the relationships will be those in the schema.py and prompt.py files. But sometimes there will be relationships returned that are not in your schema. These cases will be gathered into a separate dataframe for evaluation.
+
+If you wish to add or modify the relationship and entities you are after, you need to modify both those files appropriately, save them. The code is written to reload those modules every time, assuming you want to play around with the schema/prompt.
+
+You will need api access to a large language model access to which is supported by langchain. (eg. OpenAI, Groq, Mistral, etc). OpenAI will cost you, but Groq can be free for experimentation.
 
 # Original README:
 
