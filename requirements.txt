@@ -1,6 +1,5 @@
 langchain==0.1.16
 langchain-community==0.0.34
-langchain-core==0.1.46
 langchain-text-splitters==0.0.1
 langsmith==0.1.50
 spacy==3.7.4
